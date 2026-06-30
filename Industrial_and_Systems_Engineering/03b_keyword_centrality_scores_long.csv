@@ -1,0 +1,353 @@
+cluster,rank,keyword,centrality_similarity,pi_df_in_cluster,cluster_size
+1,1,traffic control,0.5551291704177856,1,4
+1,2,stochastic rideshare systems,0.5381290316581726,1,4
+1,3,mixed traffic management,0.522911548614502,1,4
+1,4,traffic equilibrium,0.5225565433502197,2,4
+1,5,mobility fleet incentives,0.48340553045272827,1,4
+1,6,ride-hailing services,0.4718663692474365,1,4
+1,7,vehicle-to-grid,0.46714353561401367,1,4
+1,8,rideshare systems,0.46630293130874634,1,4
+1,9,real-time ridesharing,0.4646569490432739,1,4
+1,10,ride-hailing integration,0.4585648775100708,1,4
+1,11,autonomous vehicles,0.43352389335632324,1,4
+1,12,optimal control,0.4217909574508667,1,4
+1,13,urban mobility,0.41847509145736694,1,4
+1,14,fleet management,0.41737332940101624,1,4
+1,15,connected autonomous vehicles,0.41475796699523926,1,4
+1,16,takeoff scheduling,0.40197503566741943,1,4
+1,17,urban air mobility,0.40012985467910767,1,4
+1,18,public transit integration,0.38912272453308105,1,4
+1,19,platoon coordination,0.3785977363586426,1,4
+1,20,battery electric trucks,0.3763996362686157,1,4
+1,21,metro network operations,0.37577325105667114,1,4
+1,22,progressive optimization,0.37206870317459106,1,4
+1,23,electric trucks,0.37168198823928833,1,4
+1,24,bilinear optimal control,0.36736857891082764,1,4
+1,25,traffic pattern analysis,0.364183247089386,1,4
+1,26,system optimization,0.36205166578292847,2,4
+1,27,adaptive control,0.3543233871459961,2,4
+1,28,offline policy learning,0.35417115688323975,1,4
+1,29,dynamic pricing,0.3541405200958252,1,4
+1,30,traffic measurement,0.35237106680870056,1,4
+1,31,flexible pickup/drop-off points,0.3471584916114807,1,4
+1,32,q-learning,0.3452273905277252,1,4
+1,33,mixed-autonomy networks,0.33624541759490967,1,4
+1,34,centralized coordination,0.3350757360458374,1,4
+1,35,freight routing,0.33100810647010803,2,4
+1,36,distributed parameter systems,0.3196485936641693,1,4
+1,37,linear quadratic control,0.31889981031417847,1,4
+1,38,dynamic incentive design,0.31097424030303955,1,4
+1,39,ramp metering,0.30819767713546753,1,4
+1,40,smart cities,0.3053627908229828,1,4
+1,41,incentive systems,0.30464380979537964,1,4
+1,42,state constraints,0.29969850182533264,1,4
+1,43,charging infrastructure,0.2983545958995819,1,4
+1,44,dynamic origin-destination estimation,0.2975059747695923,1,4
+1,45,quasi-differentiable optimization,0.2910943031311035,1,4
+1,46,sustainability in freight,0.28436094522476196,1,4
+1,47,cost-sharing mechanisms,0.2830207645893097,1,4
+1,48,classification with constraints,0.27931487560272217,1,4
+1,49,hvac control,0.27140045166015625,1,4
+1,50,machine learning,0.2693280279636383,1,4
+1,51,electric vehicle batteries,0.2655239701271057,1,4
+1,52,production scheduling,0.26003092527389526,1,4
+1,53,heaviside composite optimization,0.24684752523899078,1,4
+1,54,signal-free intersection coordination,0.2330857664346695,1,4
+1,55,heat equation control,0.229028582572937,1,4
+1,56,battery technologies,0.21834346652030945,1,4
+1,57,logarithmic integral optimization,0.2100381851196289,1,4
+1,58,flow-dependent waiting time,0.20754827558994293,1,4
+1,59,signal-free intersections,0.20514819025993347,1,4
+1,60,vaccine site optimization,0.19994652271270752,1,4
+1,61,power system interactions,0.1963571310043335,1,4
+1,62,gini constraints,0.18678736686706543,1,4
+1,63,sparse quadratic minimization,0.1769016534090042,1,4
+1,64,complementarity constraints,0.17449195683002472,1,4
+1,65,sustainability,0.16501563787460327,1,4
+1,66,treatment learning,0.16255344450473785,1,4
+1,67,capped waiting time,0.1624460220336914,1,4
+1,68,safety,0.14022645354270935,1,4
+1,69,spatial frequency analysis,0.11771933734416962,1,4
+1,70,value of time estimation,0.09952197968959808,1,4
+1,71,reliability,0.09174081683158875,1,4
+1,72,disturbance rejection,0.07536283135414124,1,4
+1,73,parametric variational inequalities,0.07139942795038223,1,4
+1,74,weight clipping,0.05931948125362396,1,4
+1,75,public health outcomes,0.0580170713365078,1,4
+1,76,content caching,0.01643368974328041,1,4
+2,1,health data integration,0.49366331100463867,1,3
+2,2,capacity planning,0.45228931307792664,1,3
+2,3,multi-resource planning,0.44332754611968994,1,3
+2,4,food access disparities,0.4243306517601013,1,3
+2,5,vaccine site optimization,0.4204219877719879,1,3
+2,6,airborne pandemics,0.42004257440567017,1,3
+2,7,emergency logistics,0.4183921217918396,1,3
+2,8,public health policy,0.4171202778816223,1,3
+2,9,surgical scheduling,0.4015428423881531,1,3
+2,10,integrated planning,0.3951135575771332,1,3
+2,11,disease prevention strategies,0.39053216576576233,1,3
+2,12,mobile food environments,0.3890068531036377,1,3
+2,13,pandemic preparedness,0.3840407729148865,1,3
+2,14,pomdp applications,0.37873518466949463,1,3
+2,15,food environment,0.375963032245636,1,3
+2,16,health equity,0.37332940101623535,1,3
+2,17,travel inconvenience analysis,0.37169551849365234,1,3
+2,18,decision optimization,0.3695838451385498,1,3
+2,19,care sequence assignment,0.364374041557312,1,3
+2,20,predictive modeling,0.3600814938545227,1,3
+2,21,predictive analytics,0.3541724681854248,1,3
+2,22,ai integration,0.3511829674243927,1,3
+2,23,equity-promoting scheduling,0.34446248412132263,1,3
+2,24,operating room scheduling,0.3431418538093567,1,3
+2,25,resource allocation,0.34208041429519653,1,3
+2,26,fast food visits,0.34207943081855774,1,3
+2,27,stochastic programming,0.33685868978500366,1,3
+2,28,anesthesiologist scheduling,0.3367035388946533,1,3
+2,29,appointment scheduling,0.3355569839477539,1,3
+2,30,drone-based disaster relief,0.3289753794670105,1,3
+2,31,travel case studies,0.3286670446395874,1,3
+2,32,uncertainty management,0.3283284902572632,1,3
+2,33,screening optimization,0.3133414387702942,1,3
+2,34,shift scheduling,0.30705535411834717,1,3
+2,35,epidemic dynamics,0.3069304823875427,1,3
+2,36,vaccination behavior,0.30443090200424194,1,3
+2,37,fairness optimization,0.3026873767375946,1,3
+2,38,fairness in resource distribution,0.2932116687297821,1,3
+2,39,mobility data,0.2924683690071106,1,3
+2,40,network optimization,0.27844440937042236,1,3
+2,41,resource distribution equity,0.26971226930618286,1,3
+2,42,grocery store visits,0.2638286352157593,1,3
+2,43,human mobility data,0.25448206067085266,1,3
+2,44,spatial fairness,0.24461379647254944,1,3
+2,45,socioeconomic factors,0.24276718497276306,1,3
+2,46,traffic dynamics,0.23957791924476624,1,3
+2,47,microsimulation,0.23784257471561432,1,3
+2,48,fleet operations,0.23714686930179596,1,3
+2,49,medical knowledge imputation,0.2340678870677948,1,3
+2,50,machine learning thresholds,0.22227740287780762,1,3
+2,51,stochastic control,0.21303486824035645,1,3
+2,52,diet adherence,0.20522907376289368,1,3
+2,53,inventory prepositioning,0.19113445281982422,1,3
+2,54,equity in access,0.17726747691631317,1,3
+2,55,diet improvement,0.16650749742984772,1,3
+2,56,optimism-pessimism trade-off,0.12761598825454712,1,3
+2,57,transformer models,0.11718837916851044,1,3
+2,58,distributional ambiguity,0.11109434068202972,1,3
+2,59,behavioral signals,0.0994594395160675,1,3
+2,60,point-of-interest attribution,0.08915965259075165,1,3
+3,1,online bandit learning,0.5770195722579956,1,3
+3,2,dynamic trading strategies,0.5520153045654297,1,3
+3,3,zero-sum stochastic games,0.5437297224998474,1,3
+3,4,stochastic programming,0.5357059240341187,1,3
+3,5,multiagent reinforcement learning,0.5321283340454102,1,3
+3,6,risk-aware bandits,0.51964271068573,1,3
+3,7,reward optimization,0.508924126625061,1,3
+3,8,stochastic control,0.5035906434059143,2,3
+3,9,reinforcement learning,0.5023317337036133,1,3
+3,10,policy gradient optimization,0.49974578619003296,1,3
+3,11,stochastic optimization,0.4925048351287842,2,3
+3,12,best policy learning,0.48000359535217285,1,3
+3,13,contextual bandits,0.46019941568374634,1,3
+3,14,optimal control,0.45805078744888306,1,3
+3,15,sequential decision-making,0.44825273752212524,1,3
+3,16,offline imitation learning,0.4423026442527771,1,3
+3,17,non-cooperative games,0.4235122799873352,1,3
+3,18,game theory,0.42227184772491455,1,3
+3,19,trajectory preference feedback,0.42080140113830566,1,3
+3,20,stackelberg games,0.4172985553741455,1,3
+3,21,mean-field games,0.4128231406211853,1,3
+3,22,episodic constrained optimization,0.40946102142333984,1,3
+3,23,real option models,0.3847779631614685,1,3
+3,24,dynamic pricing,0.3691222071647644,1,3
+3,25,stochastic targets,0.368766725063324,1,3
+3,26,uncertainty management,0.3584233522415161,1,3
+3,27,decision-making under uncertainty,0.35744550824165344,1,3
+3,28,robust optimization,0.3538033068180084,1,3
+3,29,constrained mdps,0.3536088466644287,1,3
+3,30,optimal stopping,0.3501225709915161,1,3
+3,31,multi-agent systems,0.34942710399627686,1,3
+3,32,risk management,0.3490007519721985,1,3
+3,33,multiagent mdps,0.3452833890914917,1,3
+3,34,dynamic equilibria,0.34260326623916626,1,3
+3,35,bayesian learning,0.3404911756515503,1,3
+3,36,adaptive control,0.33434316515922546,1,3
+3,37,dynamic contracts,0.33351680636405945,1,3
+3,38,utility inference,0.30311423540115356,1,3
+3,39,optimal transport,0.30295121669769287,1,3
+3,40,autonomous systems,0.3025274872779846,1,3
+3,41,constrained optimization,0.2953798174858093,1,3
+3,42,multi-objective preference optimization,0.2876196503639221,1,3
+3,43,tail risk modeling,0.2856631278991699,1,3
+3,44,time-inconsistent decisions,0.26255401968955994,1,3
+3,45,equilibrium dynamics,0.2528457045555115,1,3
+3,46,preference feedback,0.2414247989654541,1,3
+3,47,probabilistic contraction analysis,0.23973190784454346,1,3
+3,48,markov balance,0.23460520803928375,1,3
+3,49,diffusion modeling,0.23016855120658875,1,3
+3,50,distributionally robust,0.22977888584136963,1,3
+3,51,generative modeling,0.21675944328308105,1,3
+3,52,contract design,0.1933175027370453,1,3
+3,53,smart order routing,0.1913067102432251,1,3
+3,54,quantal response equilibrium,0.15895897150039673,1,3
+3,55,fixed budget,0.14800596237182617,1,3
+3,56,schrödinger bridge,0.1047382652759552,1,3
+3,57,factor modeling,0.10110381990671158,1,3
+3,58,human alignment,0.049871210008859634,1,3
+4,1,additive manufacturing,0.6327785849571228,1,2
+4,2,dmd-based additive manufacturing,0.6063120365142822,1,2
+4,3,smart manufacturing,0.5507227182388306,1,2
+4,4,fabrication-aware learning,0.5467239618301392,1,2
+4,5,multi-material 3d printing,0.5319924354553223,1,2
+4,6,ai-driven manufacturing,0.5259535312652588,1,2
+4,7,manufacturing primitives,0.506827712059021,1,2
+4,8,surface quality characterization,0.45537808537483215,1,2
+4,9,vibration-assisted stereolithography,0.44419723749160767,1,2
+4,10,free-form product accuracy,0.3835779130458832,1,2
+4,11,curing-on-demand printheads,0.38080185651779175,1,2
+4,12,surface pattern identification,0.38023290038108826,1,2
+4,13,shape memory fibers,0.3770955204963684,1,2
+4,14,shape deformation prediction,0.3633946180343628,1,2
+4,15,nanobubble-enhanced cavitation,0.35336294770240784,1,2
+4,16,human-process-inspired methods,0.3393169641494751,1,2
+4,17,high-performance polymers,0.3392762839794159,1,2
+4,18,feature-oriented vibrations,0.33361905813217163,1,2
+4,19,abrasive flow machining,0.32717829942703247,1,2
+4,20,liquid crystal elastomers,0.31914982199668884,1,2
+4,21,lcd-based photopolymerization,0.3154691159725189,1,2
+4,22,cell-loaded scaffolds,0.3111157715320587,1,2
+4,23,automated qualification,0.3007984757423401,1,2
+4,24,laser powder bed fusion,0.29932257533073425,1,2
+4,25,vibration-assisted vat photopolymerization,0.29414618015289307,1,2
+4,26,printing primitive extraction,0.28865212202072144,1,2
+4,27,quality assurance,0.2581382989883423,1,2
+4,28,multiresolution characterization,0.25780805945396423,1,2
+4,29,robust model fine-tuning,0.236638605594635,1,2
+4,30,deviation-aware landmark selection,0.21541385352611542,1,2
+4,31,biofouling correction,0.21497473120689392,1,2
+4,32,feature space adaptation,0.18767672777175903,1,2
+4,33,layer segmentation,0.16014617681503296,1,2
+4,34,dimensional reduction,0.14809973537921906,1,2
+4,35,thermomechanical actuation,0.14166030287742615,1,2
+4,36,bone regeneration,0.1298294961452484,1,2
+4,37,heterogeneous domains,0.11365480720996857,1,2
+4,38,spatial stochastic processes,0.1023855209350586,1,2
+4,39,spatiotemporal properties,0.050526563078165054,1,2
+4,40,mini-channels,0.015440426766872406,1,2
+5,1,reproducible machine learning,0.5938935279846191,1,2
+5,2,machine learning pipelines,0.5774993300437927,1,2
+5,3,computational reproducibility,0.5440483093261719,1,2
+5,4,healthcare informatics,0.482870876789093,1,2
+5,5,data-centric infrastructure,0.46842002868652344,1,2
+5,6,data provenance,0.4682158827781677,1,2
+5,7,clinical validation,0.4587613046169281,1,2
+5,8,reproducibility,0.456188827753067,1,2
+5,9,healthcare data integration,0.4540789723396301,1,2
+5,10,automated researchers,0.4482419490814209,1,2
+5,11,research integrity,0.41909995675086975,1,2
+5,12,data curation,0.4163135886192322,1,2
+5,13,data-centric communities,0.4130018949508667,1,2
+5,14,integrative structure validation,0.41209593415260315,1,2
+5,15,deep learning algorithms,0.40456855297088623,1,2
+5,16,clinical decision support,0.399588018655777,1,2
+5,17,computational verification,0.3948144316673279,1,2
+5,18,knowledge limits,0.39116692543029785,1,2
+5,19,emergent knowledge boundaries,0.3899126648902893,1,2
+5,20,llm-based assessment,0.3796188533306122,1,2
+5,21,data interoperability,0.37847185134887695,1,2
+5,22,computable phenotypes,0.37466639280319214,1,2
+5,23,pipeline assessment,0.368877649307251,1,2
+5,24,system trust,0.3637920618057251,1,2
+5,25,standardized data concepts,0.36213868856430054,1,2
+5,26,telemedicine applications,0.3618152141571045,1,2
+5,27,idealized pipelines,0.3463013470172882,1,2
+5,28,fair data,0.3360127806663513,1,2
+5,29,knowledge emergence,0.31389498710632324,1,2
+5,30,knowledge management,0.31119221448898315,1,2
+5,31,trustworthiness,0.2965436279773712,1,2
+5,32,robotic systems,0.2869456112384796,1,2
+5,33,algorithmic transparency,0.2822125256061554,1,2
+5,34,automated detection,0.2821515202522278,1,2
+5,35,computational grids,0.2749577462673187,1,2
+5,36,trust,0.2727133333683014,1,2
+5,37,integrative structure determination,0.2562086582183838,1,2
+5,38,llms,0.22673273086547852,1,2
+5,39,teleophthalmology,0.1297592669725418,1,2
+5,40,pharmacologic safety,0.1182217225432396,1,2
+6,1,systems integration,0.47889676690101624,1,2
+6,2,supply chain management,0.46977102756500244,1,2
+6,3,renewable energy systems,0.4582381844520569,1,2
+6,4,sustainable manufacturing,0.45289909839630127,1,2
+6,5,operations research,0.4440208673477173,1,2
+6,6,supply chain coordination,0.4383382797241211,1,2
+6,7,systems optimization,0.4319516122341156,1,2
+6,8,technology integration,0.4210679829120636,1,2
+6,9,system integration,0.4175964891910553,1,2
+6,10,data-driven decision making,0.4093223810195923,1,2
+6,11,smart grid technologies,0.4058786630630493,1,2
+6,12,process optimization,0.40548306703567505,1,2
+6,13,predictive maintenance,0.396912157535553,1,2
+6,14,healthcare systems engineering,0.3968507945537567,1,2
+6,15,environmental impact assessment,0.37829500436782837,1,2
+6,16,interoperability,0.3758491277694702,1,2
+6,17,machine learning applications,0.3742235600948334,1,2
+6,18,project management,0.37170228362083435,1,2
+6,19,industrial automation,0.36835360527038574,1,2
+6,20,risk management,0.3677555322647095,2,2
+6,21,sustainability,0.35823675990104675,1,2
+6,22,system reliability,0.34362393617630005,1,2
+6,23,data-driven analytics,0.3390045464038849,1,2
+6,24,cost efficiency,0.3300555944442749,1,2
+6,25,complex systems,0.32862845063209534,1,2
+6,26,collaborative design,0.32469964027404785,1,2
+6,27,design optimization,0.32107266783714294,1,2
+6,28,resource allocation,0.3125508427619934,1,2
+6,29,process improvement,0.3021535873413086,1,2
+6,30,energy efficiency,0.3008466362953186,1,2
+6,31,quality control,0.3001512289047241,1,2
+6,32,quality assurance,0.3001094460487366,1,2
+6,33,performance evaluation,0.2830849289894104,1,2
+6,34,socio-economic factors,0.2753654420375824,1,2
+6,35,statistical modeling,0.23266080021858215,1,2
+6,36,scalability,0.23244702816009521,1,2
+6,37,stakeholder engagement,0.22213071584701538,1,2
+6,38,resilience,0.1423186957836151,1,2
+6,39,digital twin technologies,0.13418246805667877,1,2
+7,1,robust optimization,0.559064507484436,1,2
+7,2,distributionally robust optimization,0.5589697360992432,1,2
+7,3,convex quadratic optimization,0.48062169551849365,1,2
+7,4,real-time optimization,0.46809402108192444,1,2
+7,5,responsible machine learning,0.45611897110939026,1,2
+7,6,stochastic optimization,0.45543336868286133,1,2
+7,7,bayesian optimization,0.45529836416244507,1,2
+7,8,optimization under uncertainty,0.452160120010376,1,2
+7,9,optimal classification trees,0.44778043031692505,1,2
+7,10,mixed-integer optimization,0.4422546625137329,2,2
+7,11,policy optimization,0.44039618968963623,1,2
+7,12,machine learning fairness,0.44021788239479065,1,2
+7,13,multi-period optimization,0.43083080649375916,1,2
+7,14,robust regression,0.4278527796268463,1,2
+7,15,ethical machine learning,0.42664778232574463,1,2
+7,16,graph-based optimization,0.4165799617767334,1,2
+7,17,social service optimization,0.4107632637023926,1,2
+7,18,classification trees,0.4012162685394287,1,2
+7,19,matrix optimization,0.38274139165878296,1,2
+7,20,contextual stochastic optimization,0.3778424561023712,1,2
+7,21,quadratic constraints,0.3756052553653717,1,2
+7,22,decision-dependent information discovery,0.36079639196395874,1,2
+7,23,fair regression,0.3514750599861145,1,2
+7,24,information discovery,0.3369711935520172,1,2
+7,25,convex hull analysis,0.32836735248565674,1,2
+7,26,stability regularization,0.3200652599334717,1,2
+7,27,ai in social services,0.3196510672569275,1,2
+7,28,parametric optimization,0.3152749836444855,1,2
+7,29,sparse regression,0.30664312839508057,1,2
+7,30,multi-stage selection,0.3004780411720276,1,2
+7,31,decision-making under uncertainty,0.2947501540184021,1,2
+7,32,fair policy design,0.27177730202674866,1,2
+7,33,conic integer programming,0.2680570185184479,1,2
+7,34,submodular minimization,0.2606200873851776,1,2
+7,35,rank-one convexification,0.24479487538337708,1,2
+7,36,ai-or collaboration,0.19750730693340302,1,2
+7,37,observational data,0.18825526535511017,1,2
+7,38,indicator variables,0.17185012996196747,1,2
+7,39,distribution shifts,0.15072810649871826,1,2
