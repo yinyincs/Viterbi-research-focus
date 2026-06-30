@@ -1,0 +1,190 @@
+cluster,rank,keyword,centrality_similarity,pi_df_in_cluster,cluster_size
+1,1,urban development,0.6386067271232605,1,3
+1,2,urban planning,0.6184347867965698,2,3
+1,3,urban sustainability,0.5937609672546387,1,3
+1,4,data-driven urban planning,0.5839934945106506,1,3
+1,5,urban resilience,0.5783406496047974,2,3
+1,6,sustainable cities,0.5727901458740234,1,3
+1,7,urban indicators,0.5632002353668213,1,3
+1,8,infrastructure planning,0.5387303829193115,1,3
+1,9,sustainability planning,0.5067273378372192,1,3
+1,10,urban heat vulnerability,0.504851758480072,1,3
+1,11,urban green space,0.49094003438949585,1,3
+1,12,smart cities,0.4632200002670288,1,3
+1,13,urban agglomeration,0.45832622051239014,1,3
+1,14,spatial policy,0.4517560601234436,1,3
+1,15,environmental impact,0.44750550389289856,1,3
+1,16,gis applications,0.4400469660758972,1,3
+1,17,urban form,0.41717153787612915,1,3
+1,18,sustainable development,0.4164223372936249,1,3
+1,19,climate resilience,0.4048960208892822,1,3
+1,20,regional analysis,0.4041379690170288,1,3
+1,21,ecosystem services,0.4022001624107361,1,3
+1,22,land use,0.38940107822418213,1,3
+1,23,spatial analysis,0.3823268711566925,1,3
+1,24,environmental management,0.363210529088974,1,3
+1,25,computational planning,0.3505406677722931,1,3
+1,26,flood adaptability,0.34585198760032654,1,3
+1,27,gis integration,0.3433631658554077,1,3
+1,28,transportation systems,0.34110260009765625,1,3
+1,29,scenario planning,0.3366853594779968,1,3
+1,30,network resilience,0.3287883996963501,1,3
+1,31,street networks,0.32506340742111206,1,3
+1,32,geospatial data,0.3216383457183838,1,3
+1,33,environmental health,0.309664249420166,1,3
+1,34,transport-environment interaction,0.280230313539505,1,3
+1,35,decision support,0.27552691102027893,1,3
+1,36,policy implementation,0.2749056816101074,1,3
+1,37,rural healthcare,0.2648487687110901,1,3
+1,38,street intersection analysis,0.2605511546134949,1,3
+1,39,resource management,0.2579710781574249,1,3
+1,40,program evaluation,0.25006574392318726,1,3
+1,41,assessment techniques,0.24133247137069702,1,3
+1,42,resource allocation,0.24042926728725433,1,3
+1,43,stakeholder engagement,0.23966942727565765,1,3
+1,44,open science,0.23147158324718475,1,3
+1,45,telemedicine impact,0.22222498059272766,1,3
+1,46,network disruption,0.21922144293785095,1,3
+1,47,greenhouse gas emissions,0.21186795830726624,1,3
+1,48,healthcare systems,0.20023038983345032,1,3
+1,49,text analysis,0.19253817200660706,1,3
+1,50,adaptive strategies,0.16216616332530975,1,3
+1,51,healthcare access,0.1511659324169159,1,3
+1,52,healthcare equity,0.14031149446964264,1,3
+1,53,home sharing,0.12319089472293854,1,3
+1,54,deep learning,0.11602169275283813,1,3
+1,55,transgender health,0.10616788268089294,1,3
+1,56,graph simplification,0.09829549491405487,1,3
+1,57,digital twinning,0.08589863777160645,1,3
+1,58,digital twin,0.06442874670028687,1,3
+2,1,Environmental Health Disparities,0.6377321481704712,1,3
+2,2,Environmental Epidemiology,0.6346063613891602,1,3
+2,3,Environmental Chemical Exposures,0.6253210306167603,1,3
+2,4,air pollution,0.5590806603431702,1,3
+2,5,climate health,0.5435091853141785,1,3
+2,6,urban air pollution,0.5431970953941345,1,3
+2,7,Climate Change and Health,0.5420500636100769,1,3
+2,8,wildfire health impacts,0.5290801525115967,1,3
+2,9,traffic-related air toxics,0.5224424004554749,1,3
+2,10,Geographic Exposure Assessment,0.5205838680267334,1,3
+2,11,Wildfire Smoke Exposure,0.5046766996383667,1,3
+2,12,health disparities,0.4828721284866333,2,3
+2,13,ir Pollution,0.479270875453949,1,3
+2,14,Child Health,0.46318817138671875,2,3
+2,15,environmental justice,0.45374226570129395,3,3
+2,16,Maternal and Child Health,0.45306098461151123,1,3
+2,17,industrial pollution,0.452824205160141,1,3
+2,18,agricultural pesticide exposure,0.4493544101715088,1,3
+2,19,prenatal exposure,0.44402995705604553,2,3
+2,20,Public Health Data Science,0.43516626954078674,1,3
+2,21,childhood cancer risk,0.4311577081680298,1,3
+2,22,Pregnancy Exposures,0.42887985706329346,1,3
+2,23,respiratory health,0.4258064031600952,1,3
+2,24,Asthma and Respiratory Health,0.4114644229412079,1,3
+2,25,cancer disparities,0.3862473964691162,1,3
+2,26,community health,0.3842127323150635,1,3
+2,27,air quality monitoring,0.37610936164855957,1,3
+2,28,toxic metals,0.3698301315307617,1,3
+2,29,oil and gas emissions,0.3683156967163086,1,3
+2,30,socioeconomic disparities,0.3387993574142456,1,3
+2,31,wildfire smoke,0.3180786371231079,1,3
+2,32,neighborhood social vulnerability,0.31689393520355225,1,3
+2,33,particulate matter,0.26399925351142883,1,3
+2,34,Mental Health,0.257340669631958,1,3
+2,35,residential proximity,0.2435026466846466,1,3
+2,36,equity-focused research,0.23974817991256714,1,3
+2,37,metabolic profiles,0.23719124495983124,1,3
+2,38,social determinants,0.23493686318397522,1,3
+2,39,cancer outcomes,0.23142725229263306,1,3
+2,40,Birth Outcomes,0.22637870907783508,1,3
+2,41,mental health outcomes,0.20705315470695496,1,3
+2,42,dna methylation,0.20552285015583038,1,3
+2,43,industrial proximity,0.2009015679359436,1,3
+2,44,DNA Methylation and Epigenetics,0.19710752367973328,1,3
+2,45,neighborhood walkability,0.15326055884361267,1,3
+2,46,Heat Stress,0.15072466433048248,2,3
+2,47,Cardiometabolic Health,0.1270475685596466,1,3
+2,48,ethnic enclaves,0.12467215210199356,1,3
+2,49,exposome research,0.12193693220615387,1,3
+2,50,Neurodevelopment,0.11588678508996964,1,3
+2,51,geospatial analysis,0.10893116891384125,1,3
+2,52,gut microbiome,0.10108757764101028,1,3
+2,53,Exposomics,0.09527921676635742,1,3
+2,54,sensor calibration,-0.01752365566790104,1,3
+3,1,Health and Human Rights,0.6344627737998962,1,2
+3,2,lgbtq+ rights,0.6024565100669861,1,2
+3,3,Rights-Based Health Interventions.,0.5849635601043701,1,2
+3,4,public health policy,0.5785057544708252,2,2
+3,5,global health equity,0.5706493854522705,1,2
+3,6,sexual health,0.5651679039001465,1,2
+3,7,Children's Health Rights,0.5647138357162476,1,2
+3,8,Global Health Governance,0.5448812246322632,1,2
+3,9,Gender and Health,0.5292332172393799,1,2
+3,10,Global Health,0.5285735130310059,1,2
+3,11,Transgender Health,0.526255190372467,1,2
+3,12,Sexual and Reproductive Health,0.5205634236335754,1,2
+3,13,refugee health,0.5157482028007507,1,2
+3,14,Human Rights Policy,0.5123822689056396,1,2
+3,15,Reproductive Rights,0.5108429193496704,1,2
+3,16,Health Law and Ethics,0.5027256011962891,1,2
+3,17,health equity,0.492941290140152,2,2
+3,18,health disparities,0.4924297034740448,1,2
+3,19,reproductive health,0.4747133255004883,1,2
+3,20,Health Education,0.4677227735519409,1,2
+3,21,historical health programs,0.4616576135158539,1,2
+3,22,HIV Prevention,0.4567965865135193,1,2
+3,23,human rights,0.4511985778808594,1,2
+3,24,Healthcare Access,0.3882187008857727,1,2
+3,25,Sustainable Development Goals (SDGs),0.3811488151550293,1,2
+3,26,rights-based approaches,0.3760591745376587,1,2
+3,27,one health,0.3733782172203064,1,2
+3,28,Gender Justice,0.3336079716682434,1,2
+3,29,pandemic impacts,0.33342862129211426,1,2
+3,30,Pre-Exposure Prophylaxis (PrEP),0.31635725498199463,1,2
+3,31,policy implementation,0.29598668217658997,1,2
+3,32,Community Partnerships,0.2957272529602051,1,2
+3,33,legal frameworks,0.2764683961868286,1,2
+3,34,disease surveillance,0.26885759830474854,1,2
+3,35,self-care strategies,0.22594204545021057,1,2
+3,36,zoonotic diseases,0.21915718913078308,1,2
+3,37,structural stigma,0.17683467268943787,1,2
+3,38,intersectionality,0.14211365580558777,1,2
+4,1,dementia disparities,0.6565709710121155,1,2
+4,2,health disparities,0.6454225182533264,2,2
+4,3,health disparities research,0.634968638420105,1,2
+4,4,racial health gaps,0.5343566536903381,1,2
+4,5,dementia risk factors,0.5318792462348938,1,2
+4,6,aging populations,0.5264294743537903,1,2
+4,7,population health,0.5072684288024902,1,2
+4,8,health equity,0.48805248737335205,1,2
+4,9,health outcomes,0.47310641407966614,1,2
+4,10,cross-national aging,0.46527108550071716,1,2
+4,11,demographic equity,0.4562748670578003,1,2
+4,12,spatial epidemiology,0.45533496141433716,1,2
+4,13,neighborhood disparities,0.4527251124382019,1,2
+4,14,public health equity,0.4273163676261902,1,2
+4,15,spatial socioeconomic polarization,0.4188949167728424,1,2
+4,16,cognitive decline,0.4152911305427551,1,2
+4,17,epigenetic aging,0.3970934748649597,1,2
+4,18,cardiovascular health,0.3863193392753601,1,2
+4,19,mental health outcomes,0.3700999617576599,1,2
+4,20,longitudinal studies,0.3627781271934509,1,2
+4,21,socioeconomic gradients,0.3375723659992218,1,2
+4,22,cardiometabolic risk,0.30453646183013916,1,2
+4,23,equity in research,0.30003631114959717,1,2
+4,24,educational inequality,0.2945502698421478,1,2
+4,25,neurodegenerative diseases,0.28133100271224976,1,2
+4,26,neighborhood disorder,0.27896371483802795,1,2
+4,27,epigenetic acceleration,0.25612515211105347,1,2
+4,28,air pollution exposure,0.2509717643260956,1,2
+4,29,physical activity,0.2499961256980896,1,2
+4,30,life course research,0.24886997044086456,1,2
+4,31,functional limitations,0.2433202564716339,1,2
+4,32,social cohesion,0.2377288043498993,1,2
+4,33,medication management,0.2008659392595291,1,2
+4,34,antihypertensive deprescribing,0.1900123804807663,1,2
+4,35,adaptive immunity,0.15632852911949158,1,2
+4,36,built environment,0.1442011445760727,1,2
+4,37,heat stress,0.11749926954507828,1,2
+4,38,ai applications,0.10044872760772705,1,2
+4,39,spousal caregiving,0.08019819855690002,1,2
