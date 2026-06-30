@@ -1,0 +1,667 @@
+cluster,rank,keyword,centrality_similarity,pi_df_in_cluster,cluster_size
+1,1,robotic learning datasets,0.6173962354660034,1,9
+1,2,scalable robot learning,0.5690343976020813,1,9
+1,3,visuomotor policy learning,0.5461408495903015,1,9
+1,4,bimanual robotics,0.5437543988227844,1,9
+1,5,robotic reward models,0.5312630534172058,1,9
+1,6,motion planning,0.5290400981903076,2,9
+1,7,robot data synthesis,0.5116521716117859,1,9
+1,8,visual imitation learning,0.5050797462463379,1,9
+1,9,in-context imitation learning,0.4997101128101349,1,9
+1,10,multimodal assistive systems,0.4597821831703186,1,9
+1,11,multi-agent reinforcement learning,0.45581644773483276,1,9
+1,12,vision-language models,0.4516262412071228,2,9
+1,13,autonomous driving,0.43769121170043945,1,9
+1,14,artificial general intelligence,0.43367815017700195,1,9
+1,15,path planning,0.42793887853622437,1,9
+1,16,assistive robotics,0.42440176010131836,1,9
+1,17,autonomous systems,0.422221839427948,1,9
+1,18,vision-and-language navigation,0.4214583933353424,1,9
+1,19,continuous latent action models,0.4193694591522217,1,9
+1,20,humanoid manipulation,0.4156830310821533,1,9
+1,21,synthetic pose generation,0.41449427604675293,2,9
+1,22,object-centric learning,0.41398757696151733,1,9
+1,23,interpretable ai,0.41270962357521057,2,9
+1,24,multi-robot coordination,0.41212981939315796,1,9
+1,25,multi-agent path planning,0.40941616892814636,1,9
+1,26,learning-based policy optimization,0.40602925419807434,1,9
+1,27,clinical ai applications,0.4048599302768707,1,9
+1,28,edge ai collaboration,0.40122246742248535,1,9
+1,29,reward learning,0.39618584513664246,1,9
+1,30,multimodal understanding,0.39590805768966675,1,9
+1,31,explainable ai,0.3957907557487488,1,9
+1,32,vision-language reasoning,0.39438796043395996,1,9
+1,33,simulator navigation benchmarks,0.39433401823043823,1,9
+1,34,language-driven object modeling,0.38434484601020813,1,9
+1,35,active reward learning,0.38379281759262085,1,9
+1,36,robot mobility,0.3798491060733795,1,9
+1,37,learnability,0.37780076265335083,1,9
+1,38,language agent,0.37732428312301636,1,9
+1,39,humanoid pose control,0.36863067746162415,1,9
+1,40,dexterous manipulation,0.36591577529907227,2,9
+1,41,physical world modeling,0.3648090958595276,1,9
+1,42,lifelong learning systems,0.36238688230514526,1,9
+1,43,human-level reasoning,0.3605075180530548,1,9
+1,44,aerial navigation,0.3587815761566162,1,9
+1,45,geometry-aware manipulation,0.358608216047287,1,9
+1,46,multi-task policy evaluation,0.35818034410476685,1,9
+1,47,transformer learning,0.3556603193283081,1,9
+1,48,action semantics inference,0.35422879457473755,1,9
+1,49,natural language coordination,0.35362595319747925,1,9
+1,50,3d geometric models,0.35180944204330444,1,9
+1,51,unlearning techniques,0.34913983941078186,1,9
+1,52,3d tokenization,0.348088800907135,1,9
+1,53,physically accurate 3d,0.34480106830596924,1,9
+1,54,human-interaction,0.34434229135513306,1,9
+1,55,collaborative policy optimization,0.33932843804359436,1,9
+1,56,hand path retrieval,0.33885812759399414,2,9
+1,57,multimodal social signal prediction,0.3371129631996155,1,9
+1,58,hierarchical optimization,0.3308975398540497,1,9
+1,59,neuro-symbolic methods,0.3297908902168274,1,9
+1,60,neuroscience-inspired models,0.32702943682670593,1,9
+1,61,large language models,0.3256043493747711,1,9
+1,62,dynamic 3d scene generation,0.32085365056991577,1,9
+1,63,spatio-temporal logic,0.3203120827674866,1,9
+1,64,dual-arm coordination,0.31960389018058777,1,9
+1,65,scene-level 3d gaussians,0.319174587726593,1,9
+1,66,zero-shot learning,0.3177109956741333,1,9
+1,67,visual fact recall,0.31632643938064575,1,9
+1,68,contextual recall,0.31108585000038147,1,9
+1,69,prompt distribution learning,0.3108765482902527,1,9
+1,70,bimanual manipulation,0.30915796756744385,1,9
+1,71,resource-aware control,0.3082275986671448,1,9
+1,72,generalization benchmarking,0.3065864145755768,1,9
+1,73,transferable representations,0.30351001024246216,2,9
+1,74,video prediction,0.3031754493713379,1,9
+1,75,multi-agent path finding,0.30308541655540466,1,9
+1,76,dual-arm data augmentation,0.30274340510368347,1,9
+1,77,compositional coordination,0.30093130469322205,1,9
+1,78,visual tokenizers,0.3005477786064148,1,9
+1,79,benchmarking,0.29970782995224,2,9
+1,80,cross-embodiment transfer,0.29727351665496826,1,9
+1,81,graph-based modeling,0.29685720801353455,1,9
+1,82,cross-dataset generalization,0.2954513430595398,1,9
+1,83,continuous control,0.29199424386024475,1,9
+1,84,cyber-physical systems,0.29004570841789246,1,9
+1,85,structure-from-motion,0.28784415125846863,1,9
+1,86,data-efficient learning,0.2866078019142151,1,9
+1,87,motion graph,0.2863089144229889,1,9
+1,88,adaptive deep learning hardware,0.2835107445716858,1,9
+1,89,affine activation editing,0.2769869863986969,1,9
+1,90,customizable dataset generation,0.2767176926136017,1,9
+1,91,cross-modal reasoning,0.2762145698070526,1,9
+1,92,saliency prediction,0.27532029151916504,1,9
+1,93,multi-modal scenarios,0.27501487731933594,1,9
+1,94,generative prompting,0.273737370967865,1,9
+1,95,visual morse graphs,0.2713600993156433,1,9
+1,96,latent modeling,0.27101296186447144,1,9
+1,97,cross-modal analysis,0.2667580246925354,1,9
+1,98,generalizability,0.26488643884658813,1,9
+1,99,signal temporal logic,0.26474255323410034,1,9
+1,100,potential games,0.2645777463912964,1,9
+1,101,human-centered uncertainty,0.2597561478614807,1,9
+1,102,parallel processing,0.2579878866672516,1,9
+1,103,latent policy refinement,0.2569493353366852,1,9
+1,104,cross-space depth estimation,0.2544748783111572,1,9
+1,105,multicalibration,0.25284507870674133,1,9
+1,106,implicit physics modeling,0.25025713443756104,1,9
+1,107,4d content creation,0.24948175251483917,1,9
+1,108,lane perception,0.24565258622169495,1,9
+1,109,conformal prediction,0.24223066866397858,1,9
+1,110,red-teaming,0.24181880056858063,1,9
+1,111,semantic annotation,0.24122217297554016,1,9
+1,112,in-context reasoning,0.24004054069519043,1,9
+1,113,generalization,0.23774006962776184,1,9
+1,114,sparse structure-from-motion,0.23497751355171204,1,9
+1,115,sensorimotor norms,0.23227396607398987,1,9
+1,116,gaussian modeling,0.2296050488948822,1,9
+1,117,distributed systems,0.22414171695709229,1,9
+1,118,explanability metrics,0.22255149483680725,1,9
+1,119,gaze-based regularization,0.2195625603199005,1,9
+1,120,scalable pddl domain,0.2133285105228424,1,9
+1,121,human mesh recovery,0.2133144736289978,1,9
+1,122,preference-conditioned rl,0.2111527919769287,1,9
+1,123,evolutionary adaptation,0.2085089236497879,1,9
+1,124,granular media manipulation,0.20824681222438812,1,9
+1,125,dynamic reconfiguration,0.2072766125202179,1,9
+1,126,digital twin,0.20617666840553284,1,9
+1,127,foundation models,0.20480331778526306,1,9
+1,128,llm multi-label classification,0.20398710668087006,1,9
+1,129,sensing danger zones,0.1982259601354599,1,9
+1,130,preference feedback,0.19739577174186707,1,9
+1,131,regularization,0.19727995991706848,1,9
+1,132,privacy in optimization,0.19551801681518555,1,9
+1,133,safety assurance,0.19444693624973297,1,9
+1,134,few-shot object detection,0.193314790725708,1,9
+1,135,convex optimization,0.1908167600631714,1,9
+1,136,indoor depth estimation,0.19074466824531555,1,9
+1,137,contact-rich manipulation,0.1888645440340042,1,9
+1,138,natural language to logic,0.18782272934913635,1,9
+1,139,multiclass calibration,0.18677593767642975,1,9
+1,140,monocular relighting,0.18456140160560608,1,9
+1,141,scooping manipulation,0.18042027950286865,1,9
+1,142,stochastic dynamical systems,0.17955507338047028,1,9
+1,143,vibrotactile feedback,0.17926067113876343,1,9
+1,144,multi-agent auditing,0.1764950156211853,1,9
+1,145,fourier features,0.17224660515785217,1,9
+1,146,real-to-sim-to-real,0.17199407517910004,1,9
+1,147,causally robust,0.16780996322631836,1,9
+1,148,riemannian geometry,0.16653287410736084,1,9
+1,149,dynamic gaussian,0.15814048051834106,1,9
+1,150,belief reasoning,0.15811778604984283,1,9
+1,151,failure-aware systems,0.15434706211090088,1,9
+1,152,trust calibration,0.14383701980113983,1,9
+1,153,runtime verification,0.14032500982284546,1,9
+1,154,value-aware eviction,0.13906420767307281,1,9
+1,155,formal verification,0.1317349225282669,1,9
+1,156,persona alignment,0.12872403860092163,1,9
+1,157,latent concept disentanglement,0.12558427453041077,1,9
+1,158,sim-to-real transfer,0.11766500771045685,1,9
+1,159,fréchet loss,0.11618425697088242,1,9
+1,160,human relighting,0.10384854674339294,1,9
+1,161,document parsing benchmarking,0.08717282116413116,1,9
+1,162,positive friction,0.08027885109186172,1,9
+1,163,contact-rich policies,0.05965437367558479,1,9
+1,164,distribution shift,0.05900540202856064,1,9
+1,165,controller dropout,0.05704452842473984,1,9
+1,166,meta-initialization,0.04951231926679611,1,9
+1,167,bayesian surprise,0.048772089183330536,1,9
+1,168,second-order convergence,0.02993035688996315,1,9
+1,169,multigroup fairness,0.026728473603725433,1,9
+1,170,low-power hardware design,0.020519141107797623,1,9
+1,171,sample amplification,0.012187385000288486,1,9
+1,172,beta splatting,0.0019796015694737434,1,9
+2,1,multilingual dialogue systems,0.6147692799568176,1,3
+2,2,dialogue system challenges,0.5874474048614502,1,3
+2,3,personalized dialogue,0.5772368907928467,1,3
+2,4,real-world conversation datasets,0.5760088562965393,1,3
+2,5,human-robot dialogue,0.5503365993499756,1,3
+2,6,dialogue summarization,0.5330009460449219,1,3
+2,7,conversational fluency,0.5045387744903564,1,3
+2,8,multi-turn conversations,0.4989593029022217,1,3
+2,9,character-consistent dialogue,0.477089524269104,1,3
+2,10,conversational implicature,0.45961475372314453,1,3
+2,11,multi-modal dialogue,0.43909335136413574,1,3
+2,12,interaction-centered ai,0.4339428246021271,1,3
+2,13,emotion ai,0.4302261173725128,1,3
+2,14,language learning,0.42468076944351196,1,3
+2,15,linguistic diversity,0.4161215126514435,1,3
+2,16,situated dialogue,0.4130794405937195,1,3
+2,17,speech synthesis,0.4109528064727783,1,3
+2,18,causal language diffusion,0.4103359878063202,1,3
+2,19,language model inversion,0.4000176787376404,1,3
+2,20,argument quality assessment,0.3942686915397644,1,3
+2,21,prompt engineering,0.39395180344581604,1,3
+2,22,speech recognition,0.3925844430923462,1,3
+2,23,team communication,0.38753849267959595,1,3
+2,24,language preservation,0.3801058530807495,1,3
+2,25,crowdsourced annotations,0.3636356294155121,1,3
+2,26,multi-modal models,0.35946181416511536,1,3
+2,27,cross-domain speech recognition,0.352846622467041,1,3
+2,28,cognitive representation,0.3249403238296509,1,3
+2,29,speech recognition errors,0.3214104175567627,1,3
+2,30,collective intelligence,0.31625473499298096,1,3
+2,31,persona rationalization,0.3159024715423584,1,3
+2,32,harmful speech detection,0.31555646657943726,1,3
+2,33,interaction log analysis,0.3141933083534241,1,3
+2,34,memorization diagnosis,0.31387826800346375,1,3
+2,35,virtual humans,0.3090493977069855,1,3
+2,36,quality score contextualization,0.3030869960784912,1,3
+2,37,cognitive simulation,0.2950049340724945,1,3
+2,38,tool behavior analysis,0.29234611988067627,1,3
+2,39,cultural generation attribution,0.2908580005168915,1,3
+2,40,multi-agent planning,0.2746888995170593,1,3
+2,41,predictive modeling,0.26995259523391724,1,3
+2,42,social media analysis,0.2596259117126465,1,3
+2,43,personal narratives,0.25777435302734375,1,3
+2,44,response selection,0.24824634194374084,1,3
+2,45,text-to-3d generation,0.23927485942840576,1,3
+2,46,crypto agent evaluation,0.23818451166152954,1,3
+2,47,gender expression,0.22693073749542236,1,3
+2,48,unlearning,0.20524537563323975,1,3
+2,49,global cultural perception,0.20292812585830688,1,3
+2,50,model forgetting,0.20125199854373932,1,3
+2,51,symbolic working memory,0.18403983116149902,1,3
+2,52,causal inference,0.17676593363285065,1,3
+2,53,model bias,0.16748471558094025,1,3
+2,54,network analysis,0.16358724236488342,1,3
+2,55,self-rationalizer tailoring,0.13428637385368347,1,3
+2,56,llm security,0.1270911991596222,1,3
+2,57,function induction,0.0866503119468689,1,3
+2,58,artificial intuition,0.08446715772151947,1,3
+2,59,forgery-resistant signatures,0.016337618231773376,1,3
+2,60,unforgeable signatures,-0.016916725784540176,1,3
+3,1,simulated arena learning,0.5309281945228577,1,3
+3,2,compact learnability,0.5252187252044678,1,3
+3,3,pac learning,0.5141498446464539,1,3
+3,4,reinforcement learning,0.5126469135284424,1,3
+3,5,adversarial bandits,0.5013837814331055,1,3
+3,6,adversarial reinforcement learning,0.4948657751083374,1,3
+3,7,contextual bandits,0.4728255867958069,1,3
+3,8,combinatorial learning,0.46673783659935,1,3
+3,9,instance-optimal learning,0.4561695456504822,1,3
+3,10,regret-matching algorithms,0.45304518938064575,1,3
+3,11,zero-sum games,0.45091724395751953,1,3
+3,12,model-based reinforcement learning,0.4460580050945282,1,3
+3,13,proper learnability,0.4331199526786804,1,3
+3,14,stochastic optimization,0.42498672008514404,1,3
+3,15,combinatorial game theory,0.4149230718612671,1,3
+3,16,multi-agent search,0.40463462471961975,1,3
+3,17,stochastic selection,0.4024873673915863,1,3
+3,18,transductive learning,0.3980366587638855,2,3
+3,19,multiclass learning,0.38979655504226685,2,3
+3,20,inference time optimization,0.3779858946800232,1,3
+3,21,game-theoretic regret,0.3751043677330017,1,3
+3,22,feedback graphs,0.37352895736694336,1,3
+3,23,autoregressive planning,0.36223503947257996,1,3
+3,24,semi-random graphs,0.36065757274627686,1,3
+3,25,matroid theory,0.3500773310661316,1,3
+3,26,distributionally robust optimization,0.3440491557121277,1,3
+3,27,instance-dependent regret,0.3222472071647644,1,3
+3,28,optimal stopping,0.3218541741371155,1,3
+3,29,submodular maximization,0.30666911602020264,1,3
+3,30,game secrets,0.300707072019577,1,3
+3,31,instruction synthesis,0.3002198338508606,1,3
+3,32,delegated search,0.29398199915885925,1,3
+3,33,stochastic knapsack,0.2833613157272339,1,3
+3,34,regularization,0.27106818556785583,1,3
+3,35,time-sensitive language generation,0.255499005317688,1,3
+3,36,supermodular contracts,0.24636897444725037,1,3
+3,37,proximal regret,0.2328430414199829,1,3
+3,38,tractability gap,0.2296571433544159,1,3
+3,39,dense subgraphs,0.22011806070804596,1,3
+3,40,social network analysis,0.20490500330924988,1,3
+3,41,positional encoding,0.20384341478347778,1,3
+3,42,diffusion models,0.2035195231437683,1,3
+3,43,mathematical reasoning,0.19983656704425812,1,3
+3,44,swap regret,0.19956406950950623,1,3
+3,45,unlabeled data,0.19631455838680267,2,3
+3,46,local regularization,0.19206801056861877,1,3
+3,47,approximate mdl,0.18508189916610718,1,3
+3,48,contention resolution,0.18146343529224396,1,3
+3,49,network immunization,0.17016516625881195,1,3
+3,50,compactness,0.15379846096038818,1,3
+3,51,scale-invariant convergence,0.14759336411952972,1,3
+3,52,local regularizers,0.11747141927480698,1,3
+3,53,bipartite matching,0.11702708899974823,1,3
+3,54,correlated equilibria,0.09513106942176819,1,3
+3,55,homomorphic sprague-grundy,0.075655996799469,1,3
+3,56,non-stationary calibration,0.07026080787181854,1,3
+3,57,last-iterate convergence,0.053555816411972046,1,3
+4,1,llm memorization,0.5789313316345215,1,3
+4,2,llm unlearning,0.5213216543197632,1,3
+4,3,memorization,0.4795416593551636,1,3
+4,4,physics-informed ml,0.4699246883392334,1,3
+4,5,multi-agent llms,0.46332648396492004,1,3
+4,6,synthetic data generation,0.4344130754470825,1,3
+4,7,llm design,0.4238550662994385,1,3
+4,8,federated learning,0.42285674810409546,1,3
+4,9,reinforcement learning,0.42214256525039673,1,3
+4,10,interpretability in ml,0.4130992293357849,1,3
+4,11,symbolic planning,0.4114154875278473,1,3
+4,12,unlearning,0.40526866912841797,1,3
+4,13,llm reasoning,0.40261608362197876,1,3
+4,14,prompt-based forecasting,0.39695197343826294,1,3
+4,15,continual learning,0.3893243670463562,1,3
+4,16,trustworthy llms,0.38804861903190613,1,3
+4,17,synthetic data,0.3874807357788086,1,3
+4,18,simulation inference,0.38563331961631775,1,3
+4,19,multimodal forecasting,0.37895041704177856,1,3
+4,20,multimodal models,0.36149194836616516,1,3
+4,21,domain-specific inference,0.3584766685962677,1,3
+4,22,llm scaling,0.3570069670677185,1,3
+4,23,code analysis,0.3507876992225647,1,3
+4,24,bayesian optimization,0.35055670142173767,1,3
+4,25,human-centered ai,0.35014277696609497,1,3
+4,26,interleaved reasoning,0.3490936756134033,1,3
+4,27,visual understanding,0.34124359488487244,1,3
+4,28,vision-language models,0.3305949866771698,1,3
+4,29,fair learning,0.32044777274131775,1,3
+4,30,model debugging,0.3191927671432495,1,3
+4,31,data valuation,0.3128061294555664,1,3
+4,32,memory extraction,0.3079410195350647,1,3
+4,33,posterior ensembles,0.3038085699081421,1,3
+4,34,counterfactual estimation,0.2864815592765808,1,3
+4,35,causal graph networks,0.2864696979522705,1,3
+4,36,interpretability,0.2814920246601105,1,3
+4,37,sample-efficient inference,0.27889078855514526,1,3
+4,38,contamination-free benchmarks,0.2667291760444641,1,3
+4,39,dynamic systems,0.25410160422325134,1,3
+4,40,time series foundation models,0.24995659291744232,1,3
+4,41,time series forecasting,0.2437632977962494,1,3
+4,42,psychological steering,0.24327769875526428,1,3
+4,43,divide-and-conquer prompting,0.23478388786315918,1,3
+4,44,action semantics,0.22387778759002686,1,3
+4,45,data contamination,0.2147892266511917,1,3
+4,46,confidence control,0.2067687213420868,1,3
+4,47,undesirable dynamics,0.20119249820709229,1,3
+4,48,active posterior estimation,0.19886550307273865,1,3
+4,49,shapley explanations,0.1946815848350525,1,3
+4,50,data leakage,0.18865881860256195,1,3
+4,51,origin-destination modeling,0.18487030267715454,1,3
+4,52,function induction,0.17851567268371582,1,3
+4,53,uncertainty quantification,0.1686830222606659,1,3
+4,54,dynamic exits,0.16260036826133728,1,3
+4,55,cartographic understanding,0.16015096008777618,1,3
+4,56,calibration,0.1538691520690918,1,3
+4,57,data watermarking,0.15362031757831573,1,3
+4,58,quantile methods,0.14984066784381866,1,3
+4,59,number representation,0.11848501861095428,1,3
+4,60,cache eviction,0.04781616851687431,1,3
+5,1,ai education,0.7621911764144897,1,2
+5,2,high school ai education,0.7122007608413696,1,2
+5,3,public ai education,0.685481071472168,1,2
+5,4,ai policy,0.6398376226425171,1,2
+5,5,foundational ai research,0.5929372310638428,1,2
+5,6,federal ai policy,0.5864846706390381,1,2
+5,7,ai infrastructure,0.5811158418655396,1,2
+5,8,ai exhibits,0.5548809766769409,1,2
+5,9,human-ai comparison,0.5440603494644165,1,2
+5,10,government ai dependency,0.5268008708953857,1,2
+5,11,ai-driven discovery,0.5263170003890991,1,2
+5,12,human-ai collaboration,0.5136957168579102,1,2
+5,13,robot intelligence,0.5053400993347168,1,2
+5,14,ai-generated text,0.49658527970314026,1,2
+5,15,ai copilots,0.46790415048599243,1,2
+5,16,ai transparency,0.45333945751190186,1,2
+5,17,educational games,0.41280511021614075,1,2
+5,18,interactive learning,0.39749807119369507,1,2
+5,19,data science education,0.37330132722854614,1,2
+5,20,inquiry-driven discovery,0.37051230669021606,1,2
+5,21,data science learning,0.36799484491348267,1,2
+5,22,novice learners,0.36005908250808716,1,2
+5,23,educational training,0.34240588545799255,1,2
+5,24,probability education,0.3374367356300354,1,2
+5,25,automated discovery,0.32129669189453125,1,2
+5,26,intelligent systems,0.3196042776107788,1,2
+5,27,collaborative problem solving,0.2921154201030731,1,2
+5,28,scientific reproducibility,0.24640972912311554,1,2
+5,29,expressiveness evaluation,0.2447851002216339,1,2
+5,30,strengths/weaknesses analysis,0.24402928352355957,1,2
+5,31,theory of mind,0.22508955001831055,1,2
+5,32,metacognitive embodiment,0.22099998593330383,1,2
+5,33,bias analysis,0.2195717692375183,1,2
+5,34,reproducibility,0.21127314865589142,1,2
+5,35,continuous inquiry,0.21061329543590546,1,2
+5,36,climate adaptation,0.2039000540971756,1,2
+5,37,climate catastrophes,0.20014943182468414,1,2
+5,38,neuroimaging,0.1960824579000473,1,2
+5,39,agricultural resilience,0.14982372522354126,1,2
+5,40,neuroimaging genetics,0.13085806369781494,1,2
+6,1,real-time deformation,0.5521109104156494,1,2
+6,2,material modeling,0.5393001437187195,1,2
+6,3,deformation analysis,0.5378245115280151,1,2
+6,4,anatomical modeling,0.5346875786781311,1,2
+6,5,computational anatomy,0.5178290605545044,1,2
+6,6,surface deformation,0.49742549657821655,1,2
+6,7,neural fluid simulation,0.4724736511707306,1,2
+6,8,surface normal deformation,0.4585709273815155,1,2
+6,9,simulation techniques,0.45090144872665405,1,2
+6,10,surface hessians,0.4485042095184326,1,2
+6,11,adaptive meshing,0.4302196502685547,1,2
+6,12,mesh deformation,0.4264369606971741,1,2
+6,13,3d stylization,0.42375361919403076,1,2
+6,14,surface reconstruction,0.42218708992004395,1,2
+6,15,pose-space deformation,0.4208560585975647,1,2
+6,16,nonlinear materials,0.41738447546958923,1,2
+6,17,nonlinear elasticity,0.40626704692840576,1,2
+6,18,robust skinning,0.3962193727493286,1,2
+6,19,physics-based animation,0.3778643012046814,1,2
+6,20,dynamic simulation,0.35948726534843445,1,2
+6,21,monte carlo fluids,0.35389238595962524,1,2
+6,22,biharmonic skinning,0.3463354706764221,1,2
+6,23,shape-aware geometry,0.34099990129470825,1,2
+6,24,elastic rods,0.3390045166015625,1,2
+6,25,skin weights optimization,0.3315143585205078,1,2
+6,26,high-fidelity rendering,0.33072608709335327,1,2
+6,27,material tuning,0.3144155740737915,1,2
+6,28,volume rendering,0.31340277194976807,1,2
+6,29,parabolic pdes,0.3089256286621094,1,2
+6,30,elastodynamics,0.28479304909706116,1,2
+6,31,discrete pdes,0.2773052453994751,1,2
+6,32,multi-resolution techniques,0.27063292264938354,1,2
+6,33,tangent point methods,0.2671579122543335,1,2
+6,34,sdf reconstruction,0.2657158672809601,1,2
+6,35,deep learning,0.2542620599269867,1,2
+6,36,geometric fields,0.22089308500289917,1,2
+6,37,discrete domains,0.19773642718791962,1,2
+6,38,signed distance fields,0.17939086258411407,1,2
+6,39,remeshing,0.13826051354408264,1,2
+6,40,convex duality,0.11358331888914108,1,2
+7,1,quantum computing,0.6497700810432434,2,2
+7,2,quantum simulators,0.5838704109191895,1,2
+7,3,hybrid quantum-classical computing,0.5729398727416992,1,2
+7,4,quantum-inspired technology,0.560954213142395,1,2
+7,5,quantum dynamics simulations,0.5295314788818359,1,2
+7,6,spatial computing,0.34721046686172485,1,2
+7,7,machine learning potentials,0.34588631987571716,1,2
+7,8,learned query optimization,0.34122076630592346,1,2
+7,9,reinforcement learning,0.3123825192451477,1,2
+7,10,neural network dynamics,0.3105472922325134,1,2
+7,11,spin-phonon coupling,0.28827089071273804,1,2
+7,12,rag-based optimization,0.2862658202648163,1,2
+7,13,hybrid optimization,0.2731108069419861,1,2
+7,14,conformal prediction,0.2703024744987488,1,2
+7,15,nanobubble dynamics,0.2581632137298584,1,2
+7,16,real-time database optimization,0.24516992270946503,1,2
+7,17,ferroelectric domains,0.24454838037490845,1,2
+7,18,self-evolving query optimization,0.23141948878765106,1,2
+7,19,data-intensive systems,0.2233520746231079,1,2
+7,20,interfacial engineering,0.22066877782344818,1,2
+7,21,query optimization,0.21724379062652588,1,2
+7,22,topological phases,0.21711388230323792,1,2
+7,23,constrained quadratic models,0.21665774285793304,1,2
+7,24,high-temperature memristors,0.21556119620800018,1,2
+7,25,majorana fermions,0.2129712551832199,1,2
+7,26,hydrogen bonding dynamics,0.18723471462726593,1,2
+7,27,light-matter dynamics,0.1689368635416031,1,2
+7,28,join order optimization,0.16340185701847076,1,2
+7,29,spatial analysis,0.16266468167304993,1,2
+7,30,photochemical reactions,0.1609700471162796,1,2
+7,31,supercritical water dynamics,0.15779884159564972,1,2
+7,32,equivariant models,0.15725500881671906,1,2
+7,33,geospatial reasoning,0.13519608974456787,1,2
+7,34,thermal degradation,0.11388951539993286,1,2
+7,35,learning-augmented estimation,0.1031743735074997,1,2
+7,36,system diagnosis,0.09656810015439987,1,2
+7,37,llm reasoning,0.09223688393831253,1,2
+7,38,causal inference,0.09112797677516937,1,2
+7,39,polymer-to-ceramic conversion,0.059063442051410675,1,2
+8,1,code analyzer generation,0.6125036478042603,1,2
+8,2,bug detection,0.5014971494674683,1,2
+8,3,llm-based code query,0.4970674514770508,1,2
+8,4,code search,0.47496268153190613,1,2
+8,5,security testing,0.4667401909828186,1,2
+8,6,cross-compilation,0.46467673778533936,1,2
+8,7,static analysis,0.45809027552604675,2,2
+8,8,binary vulnerability localization,0.45556044578552246,1,2
+8,9,llm-driven analysis,0.4553182125091553,1,2
+8,10,legacy code reuse,0.44743072986602783,2,2
+8,11,llm-driven decompilation,0.42788392305374146,1,2
+8,12,webassembly semantics,0.4276917576789856,1,2
+8,13,runtime invariant discovery,0.40563344955444336,1,2
+8,14,binary security,0.3799450993537903,1,2
+8,15,webassembly,0.3796648383140564,1,2
+8,16,network specification synthesis,0.3786543011665344,1,2
+8,17,fuzzing,0.3696174621582031,1,2
+8,18,decompilation techniques,0.3507583439350128,1,2
+8,19,llm-guided predicate discovery,0.3277793824672699,1,2
+8,20,malware detection robustness,0.3244631290435791,1,2
+8,21,provenance-based rollback,0.3122585117816925,1,2
+8,22,timing analysis,0.29819974303245544,1,2
+8,23,flaky test optimization,0.2945706248283386,1,2
+8,24,sequential circuit analysis,0.2785014808177948,1,2
+8,25,distributed system invariants,0.27820664644241333,1,2
+8,26,semantics preservation,0.275925874710083,1,2
+8,27,bayesian fault localization,0.2723451256752014,1,2
+8,28,generative explanations for synthesis,0.2480047643184662,1,2
+8,29,semantic regular expressions,0.2286398708820343,1,2
+8,30,network verification,0.20671725273132324,1,2
+8,31,test minimization,0.20409440994262695,1,2
+8,32,evasion resistance,0.20300525426864624,1,2
+8,33,encrypted traffic classification,0.18727707862854004,1,2
+8,34,binary discrepancy,0.18513613939285278,1,2
+8,35,side channel repair,0.179787278175354,1,2
+8,36,circuit explanations,0.17164012789726257,1,2
+8,37,environment adaptation,0.16386140882968903,1,2
+8,38,neurosymbolic decomposition,0.06882934272289276,1,2
+9,1,multi-agent pathfinding,0.5314857959747314,1,2
+9,2,optimization algorithms,0.5216642022132874,1,2
+9,3,algorithm selection,0.5198342800140381,1,2
+9,4,multi-agent path finding,0.5060757398605347,1,2
+9,5,multi-objective optimization,0.5036439895629883,1,2
+9,6,combinatorial optimization,0.47758886218070984,1,2
+9,7,adaptive algorithms,0.41442519426345825,1,2
+9,8,predict-and-search,0.40542036294937134,1,2
+9,9,bandit-based algorithms,0.4007114768028259,1,2
+9,10,primal heuristics,0.39154884219169617,1,2
+9,11,pseudo-boolean optimization,0.37135738134384155,1,2
+9,12,constraint programming,0.3663562834262848,1,2
+9,13,machine learning,0.35623300075531006,1,2
+9,14,thermal management,0.31565821170806885,1,2
+9,15,constraint satisfaction,0.30369967222213745,1,2
+9,16,neuro-symbolic methods,0.2734822630882263,1,2
+9,17,prompt engineering,0.2717546224594116,1,2
+9,18,biosensor development,0.26717057824134827,1,2
+9,19,environmental monitoring,0.26713570952415466,1,2
+9,20,deep learning,0.26693829894065857,1,2
+9,21,wildlife conservation,0.26285505294799805,1,2
+9,22,biodegradation,0.2443830966949463,1,2
+9,23,healthcare applications,0.24301210045814514,1,2
+9,24,sustainable development,0.23650437593460083,1,2
+9,25,additive manufacturing,0.2050403207540512,1,2
+9,26,large language models,0.19680672883987427,1,2
+9,27,waste heat recovery,0.1925756335258484,1,2
+9,28,disease detection,0.18697908520698547,1,2
+9,29,climate migration equity,0.18568027019500732,1,2
+9,30,plant disease management,0.16233256459236145,1,2
+9,31,climate change impact,0.15736174583435059,1,2
+9,32,real-time data analysis,0.1522517055273056,1,2
+9,33,evaporative cooling,0.15042820572853088,1,2
+9,34,targeted drug delivery,0.1497296243906021,1,2
+9,35,ph-responsive delivery,0.14584794640541077,1,2
+9,36,nanomaterials,0.13530784845352173,1,2
+9,37,genome-wide association,0.12996353209018707,1,2
+9,38,facility location,0.12700742483139038,1,2
+9,39,social impact,0.05468720197677612,1,2
+9,40,fluid dynamics,0.017790324985980988,1,2
+10,1,reinforcement_finetuning,0.5257260799407959,1,2
+10,2,reinforcement_learning,0.5218456983566284,1,2
+10,3,reward_modeling,0.5142699480056763,1,2
+10,4,agent_safety,0.48334968090057373,1,2
+10,5,multi_agent_systems,0.4704533517360687,1,2
+10,6,computer_use_agents,0.43404150009155273,1,2
+10,7,multi_robot_coordination,0.40808752179145813,1,2
+10,8,human_intent_inference,0.40313228964805603,1,2
+10,9,cultural_intelligence,0.4014715552330017,1,2
+10,10,social_reasoning,0.39352840185165405,1,2
+10,11,human_aware_collaboration,0.3915584087371826,1,2
+10,12,adaptive_coordination,0.3821045458316803,1,2
+10,13,causal_reasoning,0.37947598099708557,1,2
+10,14,quality_diversity_optimization,0.3728283643722534,1,2
+10,15,task_difficulty_adaptation,0.37251508235931396,1,2
+10,16,code_generation_bias,0.3713977634906769,1,2
+10,17,causal_trees,0.37074363231658936,1,2
+10,18,knowledge_base_evaluation,0.36432328820228577,1,2
+10,19,bias_detection,0.3601553738117218,1,2
+10,20,preference_elicitation,0.34134992957115173,1,2
+10,21,multilingual_bias,0.3380063474178314,1,2
+10,22,multi_agent_path_finding,0.334781289100647,1,2
+10,23,multimodal_signals,0.33322200179100037,1,2
+10,24,embodied_interaction,0.3251805901527405,1,2
+10,25,fairness_accuracy_tradeoff,0.32454514503479004,1,2
+10,26,theory_of_mind,0.32144540548324585,1,2
+10,27,machine_unlearning,0.3189542889595032,1,2
+10,28,zero_shot_coordination,0.3016590476036072,1,2
+10,29,text_generation,0.2991339862346649,1,2
+10,30,preference_based_optimization,0.2959144115447998,1,2
+10,31,signal_temporal_logic,0.29543015360832214,1,2
+10,32,cross_lingual_bias,0.2822481393814087,1,2
+10,33,robust_communication,0.2759139835834503,1,2
+10,34,trustworthiness,0.27512162923812866,1,2
+10,35,data_safety,0.2660839855670929,1,2
+10,36,exploratory_search,0.2516845464706421,1,2
+10,37,covariance_matrix_adaptation,0.23967459797859192,1,2
+10,38,bayesian_domain_randomization,0.2064787745475769,1,2
+10,39,soft_manipulation,0.1747899353504181,1,2
+10,40,hallucination_reduction,0.16399240493774414,1,2
+11,1,llm security,0.49242454767227173,1,2
+11,2,llm-driven web,0.47440144419670105,1,2
+11,3,llm web content,0.4237865209579468,1,2
+11,4,agentic ai,0.4023699164390564,1,2
+11,5,healthcare ai,0.3824295997619629,1,2
+11,6,privacy-preserving ai,0.37789058685302734,1,2
+11,7,model extraction defense,0.37162888050079346,1,2
+11,8,concept-based ood detection,0.3577718138694763,1,2
+11,9,anomaly detection,0.35526731610298157,1,2
+11,10,human-ai synergy,0.3404560387134552,1,2
+11,11,meta-learning,0.32949984073638916,1,2
+11,12,efficient model selection,0.3085293769836426,1,2
+11,13,out-of-distribution (ood) detection,0.3082694411277771,1,2
+11,14,traffic engineering,0.2956518530845642,1,2
+11,15,hyperparameter optimization,0.2740280330181122,1,2
+11,16,agent auditing,0.27172982692718506,1,2
+11,17,multimodal models,0.27047425508499146,1,2
+11,18,privacy preservation,0.2457960844039917,1,2
+11,19,defect detection systems,0.23431536555290222,1,2
+11,20,computational agricultural design,0.23163026571273804,1,2
+11,21,private data security,0.23031163215637207,1,2
+11,22,network failure mitigation,0.2288302481174469,1,2
+11,23,transportation forecasting,0.2158927321434021,1,2
+11,24,software code security,0.20564119517803192,1,2
+11,25,drug discovery,0.1860058307647705,1,2
+11,26,human-centric ar/vr,0.18399277329444885,1,2
+11,27,dynamic agricultural systems,0.17709597945213318,1,2
+11,28,explainability-extractability tradeoff,0.16737547516822815,1,2
+11,29,multi-modal sensing,0.16299931704998016,1,2
+11,30,counterfactual methods,0.16112984716892242,1,2
+11,31,secure network communications,0.15125377476215363,1,2
+11,32,autonomy trust,0.14585000276565552,1,2
+11,33,fake news detection,0.14285820722579956,1,2
+11,34,social reasoning,0.13643544912338257,1,2
+11,35,digital twin design,0.11780406534671783,1,2
+11,36,volumetric video conferencing,0.10672081261873245,1,2
+11,37,wildfire geolocation,0.08914396166801453,1,2
+11,38,resource demand heterogeneity,0.07701729238033295,1,2
+11,39,clock synchronization,0.04633180424571037,1,2
+11,40,gaussian splatting,0.043128203600645065,1,2
+12,1,socially assistive robots,0.5324815511703491,1,2
+12,2,expressive human animation,0.47754982113838196,1,2
+12,3,synthetic data for facial action units,0.4740402102470398,1,2
+12,4,assistive technology,0.46235764026641846,1,2
+12,5,embodied interaction,0.4605180025100708,1,2
+12,6,therapeutic robotics,0.457296758890152,1,2
+12,7,robot embodiment,0.42558538913726807,1,2
+12,8,articulated motion control,0.4218038022518158,1,2
+12,9,human-robot interaction,0.4142896234989166,1,2
+12,10,expressive head generation,0.41183531284332275,1,2
+12,11,affective communication,0.40860849618911743,1,2
+12,12,audiovisual emotion reasoning,0.40780261158943176,1,2
+12,13,human-centered design,0.3988647758960724,1,2
+12,14,speech therapy,0.39584049582481384,1,2
+12,15,personalized rehabilitation,0.39387598633766174,1,2
+12,16,mental health interventions,0.3805757164955139,1,2
+12,17,personalized emotion recognition,0.372864305973053,1,2
+12,18,behavioral analysis,0.3723936676979065,1,2
+12,19,emotion recognition,0.36474376916885376,1,2
+12,20,speech marker for parkinson's,0.34357750415802,1,2
+12,21,instruction-guided image editing,0.32504138350486755,1,2
+12,22,facial expression understanding,0.3208204209804535,1,2
+12,23,facial action unit detection,0.31946611404418945,1,2
+12,24,haptic wearables,0.3149872422218323,1,2
+12,25,facial display discovery,0.29823586344718933,1,2
+12,26,cognitive behavioral therapy,0.29805344343185425,1,2
+12,27,dyadic interaction modeling,0.27460211515426636,1,2
+12,28,child development,0.2743108570575714,1,2
+12,29,paralinguistic analysis,0.26989462971687317,1,2
+12,30,dyadic interaction analysis,0.2641174793243408,1,2
+12,31,remote support,0.26199910044670105,1,2
+12,32,tactile interfaces,0.254427433013916,1,2
+12,33,depression detection,0.25346997380256653,1,2
+12,34,hair motion synthesis,0.2421014904975891,1,2
+12,35,exocentric-egocentric adaptation,0.23554851114749908,1,2
+12,36,controllable video generation,0.22660885751247406,1,2
+12,37,cognitive health,0.21549296379089355,1,2
+12,38,large language models,0.2089770883321762,1,2
+12,39,adaptive systems,0.1845172941684723,1,2
+12,40,cross-modal hallucination mitigation,0.18155598640441895,1,2
