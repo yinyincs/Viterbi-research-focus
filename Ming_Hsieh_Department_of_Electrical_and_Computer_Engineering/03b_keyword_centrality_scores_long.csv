@@ -1,0 +1,618 @@
+cluster,rank,keyword,centrality_similarity,pi_df_in_cluster,cluster_size
+1,1,quantum hardware,0.6870652437210083,1,7
+1,2,quantum algorithms,0.6497361660003662,1,7
+1,3,quantum codes,0.6357811093330383,1,7
+1,4,quantum information processing,0.619330883026123,1,7
+1,5,quantum data acquisition,0.6162357330322266,1,7
+1,6,quantum processor,0.6046749353408813,1,7
+1,7,quantum networks,0.6036844253540039,1,7
+1,8,quantum communication,0.5992341637611389,2,7
+1,9,quantum machine learning,0.5972758531570435,1,7
+1,10,quantum optics,0.5933693647384644,1,7
+1,11,quantum communication security,0.5738762617111206,1,7
+1,12,quantum ldpc codes,0.5578823685646057,1,7
+1,13,fault-tolerant quantum computation,0.5484809875488281,1,7
+1,14,quantization-aware photonic computing,0.5373938083648682,1,7
+1,15,quantum sensing,0.5258445739746094,1,7
+1,16,high-fidelity quantum transmission,0.5198062062263489,1,7
+1,17,quantum error correction,0.5132700204849243,4,7
+1,18,all-optical logic gates,0.509554386138916,1,7
+1,19,quantum imaging,0.5089613199234009,1,7
+1,20,quantum simulation,0.5050061941146851,1,7
+1,21,quantum pulse position modulation,0.5017237067222595,1,7
+1,22,reinforcement learning in quantum systems,0.49549782276153564,1,7
+1,23,optical neural networks,0.49105304479599,1,7
+1,24,logical qubits,0.4896848499774933,1,7
+1,25,quantum cellular automata,0.4879942238330841,1,7
+1,26,quantum metrology,0.4878353774547577,1,7
+1,27,quantum illumination,0.47953587770462036,1,7
+1,28,neuromorphic photonics,0.47821784019470215,1,7
+1,29,quantum state estimation,0.4779568314552307,1,7
+1,30,quantum gate benchmarking,0.4771677851676941,1,7
+1,31,quantum speedup,0.475974977016449,1,7
+1,32,quantum annealing,0.4749438762664795,1,7
+1,33,silicon photonics,0.47141599655151367,1,7
+1,34,wdm-defined optical neural networks,0.47085487842559814,1,7
+1,35,quantum steganography,0.46714550256729126,2,7
+1,36,topological qubit arrays,0.46516329050064087,1,7
+1,37,vcsel optical neural networks,0.45261502265930176,1,7
+1,38,optical lattices,0.4515216052532196,1,7
+1,39,ultralow-energy optical neural networks,0.44856908917427063,1,7
+1,40,quantum dynamics,0.44535118341445923,1,7
+1,41,quantum thermal states,0.4438175559043884,1,7
+1,42,quantum noise sensing,0.440298467874527,1,7
+1,43,quantum state purity,0.4394412636756897,1,7
+1,44,optical signal processing,0.4385759234428406,1,7
+1,45,nonlinear photonic systems,0.43406063318252563,1,7
+1,46,quantum entanglement,0.43325895071029663,3,7
+1,47,topological photonics,0.43045079708099365,1,7
+1,48,quantum transduction,0.4261508882045746,1,7
+1,49,quantum electrodynamics,0.42514073848724365,1,7
+1,50,coherent encoded states,0.4131166338920593,1,7
+1,51,reconfigurable optical systems,0.41079139709472656,1,7
+1,52,rf-photonic deep learning,0.4060853123664856,1,7
+1,53,photorefractive photonic memory,0.40182390809059143,1,7
+1,54,hypermultiplexed integrated photonics,0.4016777575016022,1,7
+1,55,optical matrix operations,0.39552608132362366,1,7
+1,56,quantum squeezing,0.3928583860397339,1,7
+1,57,photon-counting spectroscopy,0.3918897807598114,1,7
+1,58,entangled dual-comb spectroscopy,0.3833993077278137,1,7
+1,59,photonic tensor processing,0.3823859989643097,1,7
+1,60,quantum tomography,0.3817734718322754,1,7
+1,61,photonic circuit scaling,0.3679797649383545,1,7
+1,62,coherent states,0.36323174834251404,1,7
+1,63,superconducting qubits,0.36088457703590393,1,7
+1,64,optical signal regeneration,0.36085373163223267,1,7
+1,65,low-energy homodyne computing,0.3605276346206665,1,7
+1,66,lithium niobate optical signal processing,0.3598688244819641,1,7
+1,67,entanglement sharing,0.3594367802143097,1,7
+1,68,optical thermodynamics,0.35830628871917725,1,7
+1,69,coherent state manipulation,0.35827216506004333,1,7
+1,70,nonlinear optics,0.34685319662094116,1,7
+1,71,in-sensor optical ai processing,0.337900847196579,1,7
+1,72,spatial-spectral hypermultiplexing,0.33773231506347656,1,7
+1,73,tunable optical processing,0.33755961060523987,1,7
+1,74,topological codes,0.3369900584220886,1,7
+1,75,optical pattern recognition,0.3331582546234131,1,7
+1,76,wavelength-spatial-temporal multiplexing,0.33193331956863403,1,7
+1,77,high-parallelism optical processing,0.32555854320526123,1,7
+1,78,four-dimensional codes,0.31144124269485474,1,7
+1,79,time-synthetic lattices,0.3054180443286896,1,7
+1,80,delocalized photonic tensor cores,0.3012947738170624,1,7
+1,81,measurement-based computation,0.29681965708732605,1,7
+1,82,optical microcanonical systems,0.28620684146881104,1,7
+1,83,decoherence suppression,0.28073650598526,1,7
+1,84,laser detection,0.2660280466079712,1,7
+1,85,neutral atom processor,0.26532524824142456,1,7
+1,86,ldpc codes,0.24915555119514465,1,7
+1,87,selective state filtering,0.24354307353496552,1,7
+1,88,vcsel-based deep learning,0.24208447337150574,1,7
+1,89,geometric codes,0.2389087826013565,1,7
+1,90,logical computation,0.23561200499534607,1,7
+1,91,light routing,0.2295963168144226,1,7
+1,92,optical condensation,0.2289963662624359,1,7
+1,93,state filtering,0.22677847743034363,1,7
+1,94,measurement characterization,0.22014927864074707,1,7
+1,95,stabilizer codes,0.21339647471904755,1,7
+1,96,majorana subsystem codes,0.20790383219718933,1,7
+1,97,noise suppression,0.18593770265579224,1,7
+1,98,logical error rates,0.18531344830989838,1,7
+1,99,bosonic error correction,0.18337441980838776,1,7
+1,100,non-markovian models,0.18186774849891663,1,7
+1,101,tesseract code,0.17750588059425354,1,7
+1,102,single-shot matrix multiplication,0.17570056021213531,1,7
+1,103,thin-film lithium niobate resonators,0.17071855068206787,1,7
+1,104,continuous error correction,0.17028392851352692,1,7
+1,105,phase transition detection,0.16675999760627747,1,7
+1,106,gain modulation,0.16133001446723938,1,7
+1,107,weyl semimetals,0.15750658512115479,1,7
+1,108,lagrange waveguides,0.1531919240951538,1,7
+1,109,nonlinear wave mixing,0.1465093493461609,1,7
+1,110,non-hermitian,0.14434799551963806,1,7
+1,111,measure and forget dynamics,0.14238840341567993,1,7
+1,112,hamiltonian simulation,0.1406000852584839,1,7
+1,113,hamiltonian control,0.13786090910434723,1,7
+1,114,surface code,0.13783693313598633,1,7
+1,115,fault tolerance,0.13488808274269104,2,7
+1,116,code switching,0.12969970703125,2,7
+1,117,fault-tolerant systems,0.11419081687927246,1,7
+1,118,clutter-tolerant sensing,0.11348895728588104,1,7
+1,119,noise resilience,0.11317646503448486,1,7
+1,120,error mitigation,0.11212766170501709,1,7
+1,121,trojan beams,0.10144062340259552,1,7
+1,122,thermalization,0.10051402449607849,1,7
+1,123,dynamical decoupling,0.09857484698295593,1,7
+1,124,error correction,0.09571664780378342,1,7
+1,125,parity-time symmetry,0.08777286112308502,1,7
+1,126,data format aggregation,0.07141558825969696,1,7
+1,127,dissipative control,0.05698811635375023,1,7
+1,128,incoherent non-diffracting fields,0.05493221431970596,1,7
+1,129,combined correction,0.03318820148706436,1,7
+1,130,odd-weight errors,0.012202084064483643,1,7
+1,131,postselection,0.009413257241249084,1,7
+2,1,optical circuits,0.5436550378799438,1,5
+2,2,optical engineering,0.527249276638031,1,5
+2,3,silicon photonics,0.5237201452255249,1,5
+2,4,optical design,0.5089357495307922,1,5
+2,5,photonic devices,0.4932962656021118,1,5
+2,6,nanophotonic devices,0.4773043990135193,1,5
+2,7,plasmonic devices,0.4547164738178253,1,5
+2,8,semiconductor materials,0.4449375867843628,1,5
+2,9,photonic computing,0.43339669704437256,1,5
+2,10,low power electronics,0.40896445512771606,1,5
+2,11,all-optical logic gates,0.4002605974674225,1,5
+2,12,photovoltaic interfaces,0.39490771293640137,1,5
+2,13,plasma technologies,0.39237043261528015,1,5
+2,14,high mobility semiconductors,0.3918988108634949,1,5
+2,15,nanofinger technology,0.3802569508552551,1,5
+2,16,ingestible electronics,0.37804746627807617,2,5
+2,17,diamond optics,0.37151679396629333,1,5
+2,18,plasmonics,0.3700454831123352,1,5
+2,19,surface engineering,0.3609730005264282,1,5
+2,20,biosensors,0.35529592633247375,1,5
+2,21,metamaterials,0.35418224334716797,1,5
+2,22,reconfigurable transistors,0.3461154103279114,1,5
+2,23,semiconductor electrolyte interfaces,0.34550920128822327,1,5
+2,24,van der waals transistors,0.34281718730926514,1,5
+2,25,in-sensor spectral processing,0.33224761486053467,1,5
+2,26,full-wave electromagnetic design,0.33181214332580566,1,5
+2,27,photocatalytic systems,0.32916125655174255,1,5
+2,28,nanogap structures,0.3266844153404236,1,5
+2,29,inverse design,0.3249450922012329,2,5
+2,30,silicon nitride thin film,0.32192984223365784,1,5
+2,31,optoelectronic modulation,0.3202502131462097,1,5
+2,32,photoelectrochemical cells,0.3162599503993988,1,5
+2,33,memristive systems,0.3147829473018646,1,5
+2,34,stochastic analog computing,0.3137817680835724,1,5
+2,35,electrochemical sensing,0.31171172857284546,1,5
+2,36,electrochemical interfaces,0.29341498017311096,1,5
+2,37,nonplanar transistors,0.29099178314208984,1,5
+2,38,nanoscale particles,0.28987616300582886,1,5
+2,39,neural networks,0.2875734269618988,1,5
+2,40,hybrid computing,0.28470706939697266,1,5
+2,41,wireless sensor networks,0.27860596776008606,1,5
+2,42,photovoltaic diodes,0.2776869237422943,1,5
+2,43,lie generator networks,0.2758815288543701,1,5
+2,44,raman spectroscopy,0.2723202109336853,1,5
+2,45,lidar,0.25953495502471924,1,5
+2,46,machine learning for image processing,0.2582774758338928,1,5
+2,47,surface plasmon resonance,0.2531054615974426,1,5
+2,48,spectroscopic analysis,0.24904340505599976,1,5
+2,49,multilayered passive networks,0.24843941628932953,1,5
+2,50,electrochemical double layers,0.24782977998256683,1,5
+2,51,photocathode,0.2421627789735794,1,5
+2,52,quantum effects,0.24128533899784088,1,5
+2,53,anisotropic materials,0.23857645690441132,1,5
+2,54,focal plane array,0.23555736243724823,1,5
+2,55,energy storage materials,0.23400554060935974,1,5
+2,56,substrate-integrated waveguide,0.2308088093996048,1,5
+2,57,electron emission,0.2266383171081543,1,5
+2,58,surrogate modeling,0.22497785091400146,1,5
+2,59,battery diagnostics,0.22268886864185333,1,5
+2,60,ultra-wideband,0.22153425216674805,1,5
+2,61,thin film growth,0.2136315405368805,1,5
+2,62,charge-state control,0.21330295503139496,1,5
+2,63,machine learning,0.21167874336242676,1,5
+2,64,agricultural sensing,0.20380538702011108,1,5
+2,65,graphene intercalation,0.2034861296415329,1,5
+2,66,capacitive conduction,0.19599030911922455,1,5
+2,67,combustion optimization,0.1955971121788025,1,5
+2,68,high-order accurate methods,0.18986722826957703,1,5
+2,69,mm-wave,0.1887308657169342,1,5
+2,70,adaptive beam forming,0.18016885221004486,1,5
+2,71,medical diagnostics,0.17687980830669403,1,5
+2,72,topology-optimized,0.17489592730998993,1,5
+2,73,preconditioners,0.1744319498538971,1,5
+2,74,integral equation solvers,0.1741860955953598,1,5
+2,75,sem image analysis,0.17273879051208496,1,5
+2,76,metasurfaces,0.16698475182056427,1,5
+2,77,distributed acoustic sensing,0.16559459269046783,1,5
+2,78,crystallography,0.16438449919223785,1,5
+2,79,hot electron dynamics,0.15642902255058289,1,5
+2,80,mode-division multiplexing,0.15317890048027039,1,5
+2,81,self-interference canceller,0.15226590633392334,1,5
+2,82,energy efficiency,0.1461932212114334,1,5
+2,83,data-driven control,0.14406011998653412,1,5
+2,84,data augmentation,0.1343979835510254,1,5
+2,85,blocker-tolerant receiver,0.13121706247329712,1,5
+2,86,boolean satisfiability,0.12870734930038452,1,5
+2,87,h-matrix acceleration,0.12776297330856323,1,5
+2,88,ionic liquids,0.12544023990631104,1,5
+2,89,magnetic localization,0.11519305408000946,1,5
+2,90,thermal emissivity,0.1132572740316391,1,5
+2,91,nonlinear dynamics,0.10325541347265244,1,5
+2,92,wdm,0.10180622339248657,1,5
+2,93,electrolyte-free water splitting,0.09332946687936783,1,5
+2,94,temperature coefficient,0.08795613050460815,1,5
+2,95,catalytic conversion,0.07018834352493286,1,5
+2,96,gpu acceleration,0.060324061661958694,1,5
+2,97,neurostimulation,-0.002582947723567486,1,5
+2,98,capsule endoscopy,-0.03145943209528923,1,5
+3,1,fpga,0.5287110209465027,1,4
+3,2,edge computing,0.5067429542541504,1,4
+3,3,low-power edge intelligence,0.4793195128440857,1,4
+3,4,extreme-edge ai architectures,0.46889886260032654,1,4
+3,5,quantized neural network security,0.45954209566116333,1,4
+3,6,energy-efficient computing,0.45888540148735046,1,4
+3,7,graph neural networks,0.4559498727321625,2,4
+3,8,neural architecture design,0.455680251121521,1,4
+3,9,parallel computing,0.444174587726593,1,4
+3,10,hardware,0.44182252883911133,1,4
+3,11,domain wall motion computing,0.4410909414291382,1,4
+3,12,neural networks,0.4366415739059448,2,4
+3,13,edge ai,0.4349144399166107,1,4
+3,14,quantum computing,0.4210321307182312,1,4
+3,15,neural network optimization,0.4202849864959717,1,4
+3,16,spiking neural network efficiency,0.41085875034332275,1,4
+3,17,deep learning,0.40702956914901733,1,4
+3,18,hardware-aware design,0.40584731101989746,1,4
+3,19,linear arithmetic for hardware,0.4047737717628479,1,4
+3,20,neuromorphic vision processing,0.4041587710380554,1,4
+3,21,hyperdimensional computing,0.3979223370552063,1,4
+3,22,neuromorphic acceleration,0.3863993287086487,1,4
+3,23,architecture,0.3832590579986572,1,4
+3,24,secure machine learning,0.361111581325531,1,4
+3,25,approximate computing,0.34953904151916504,1,4
+3,26,fpga acceleration,0.348527729511261,1,4
+3,27,high-performance,0.3362326920032501,1,4
+3,28,hardware-accelerated private inference,0.33470889925956726,1,4
+3,29,ising machines,0.3297354578971863,1,4
+3,30,federated learning,0.32449185848236084,1,4
+3,31,scalable,0.3200486898422241,1,4
+3,32,superconducting logic circuits,0.3154553472995758,1,4
+3,33,processing-in-memory,0.3107680678367615,1,4
+3,34,cnn,0.30858102440834045,1,4
+3,35,clocking optimization for sfq,0.30732622742652893,1,4
+3,36,reinforcement learning,0.30602720379829407,1,4
+3,37,aqfp circuit optimization,0.29569774866104126,1,4
+3,38,analog circuits,0.2954989969730377,1,4
+3,39,iot,0.2946007251739502,1,4
+3,40,resource optimization,0.2918814718723297,1,4
+3,41,adaptive model compression,0.2901339828968048,1,4
+3,42,training-free video generation,0.2870832085609436,1,4
+3,43,fairness in ai,0.2869144678115845,1,4
+3,44,heterogeneous platforms,0.2842597961425781,1,4
+3,45,distributed fault-tolerant ml,0.2797350287437439,1,4
+3,46,graph acceleration,0.2757102847099304,1,4
+3,47,gnn,0.26021191477775574,1,4
+3,48,sparse attention,0.2511872351169586,1,4
+3,49,continual learning,0.24918709695339203,1,4
+3,50,temporal graphs,0.23482327163219452,1,4
+3,51,multi-agent reinforcement learning,0.23477472364902496,1,4
+3,52,homomorphic encryption,0.23375442624092102,1,4
+3,53,compression,0.23323941230773926,1,4
+3,54,hierarchical,0.22627566754817963,1,4
+3,55,efficient,0.22467723488807678,1,4
+3,56,massive mimo,0.22123649716377258,1,4
+3,57,attention mechanisms,0.2191791832447052,1,4
+3,58,wireless communications,0.2178727388381958,1,4
+3,59,energy efficiency,0.2167750895023346,1,4
+3,60,superconducting electronics,0.2129395604133606,1,4
+3,61,spike timing dependent plasticity,0.20620539784431458,1,4
+3,62,heterogeneous systems,0.20248807966709137,1,4
+3,63,power efficiency,0.2006828933954239,1,4
+3,64,nerf-driven 3d reconstruction,0.18951372802257538,1,4
+3,65,vision transformer acceleration,0.18925520777702332,1,4
+3,66,mixed-signal,0.16809847950935364,1,4
+3,67,foundation models,0.1670054942369461,1,4
+3,68,fault tolerance,0.1556829810142517,1,4
+3,69,acceleration,0.15182529389858246,1,4
+3,70,cell-free,0.1452135145664215,1,4
+3,71,robust,0.14291250705718994,1,4
+3,72,unsupervised,0.12190847098827362,1,4
+3,73,magnetic tunnel junction adcs,0.11605161428451538,1,4
+3,74,diffusion model replication mitigation,0.10265631973743439,1,4
+3,75,region masking for video analysis,0.08736658096313477,1,4
+3,76,sar atr,0.07471618056297302,1,4
+4,1,neuroengineering applications,0.6229209899902344,1,3
+4,2,neuroimaging tools,0.5589946508407593,1,3
+4,3,brain-computer interfaces,0.5577837824821472,1,3
+4,4,neural dynamics,0.5500937700271606,1,3
+4,5,autonomic neural systems,0.5380886197090149,1,3
+4,6,neurocognitive modeling,0.5292384624481201,1,3
+4,7,autonomic brain dynamics,0.49738073348999023,1,3
+4,8,neural network dynamics,0.4912900924682617,1,3
+4,9,neuroai integration,0.45011693239212036,1,3
+4,10,neural population activity,0.43707752227783203,1,3
+4,11,neural networks,0.41636356711387634,1,3
+4,12,epilepsy prediction,0.404260516166687,1,3
+4,13,brain imaging,0.39831024408340454,1,3
+4,14,behavioral modeling,0.3830021917819977,1,3
+4,15,deep brain stimulation,0.3758978247642517,1,3
+4,16,intrinsic vs. input-driven dynamics,0.3756423592567444,1,3
+4,17,brain connectivity,0.37006843090057373,1,3
+4,18,cortical mapping,0.362321674823761,1,3
+4,19,medical condition prediction,0.3580358624458313,1,3
+4,20,electrode modeling,0.35802456736564636,1,3
+4,21,multi-scale generative modeling,0.35733312368392944,1,3
+4,22,fmri,0.350922167301178,1,3
+4,23,multiscale/multimodal data,0.3494805693626404,1,3
+4,24,signal processing,0.338234543800354,1,3
+4,25,dissociative modeling,0.3348734378814697,1,3
+4,26,deep learning,0.3277561664581299,1,3
+4,27,machine learning,0.3231438994407654,1,3
+4,28,self-programming systems,0.3212486207485199,1,3
+4,29,graph theory applications,0.31966742873191833,1,3
+4,30,seizure detection,0.3170139789581299,1,3
+4,31,neural decoding,0.31553253531455994,2,3
+4,32,latent factor modeling,0.30810195207595825,1,3
+4,33,mixture-of-experts,0.3059192895889282,1,3
+4,34,eeg,0.30135101079940796,1,3
+4,35,dynamic inference,0.2932087779045105,1,3
+4,36,cross-modal learning,0.2894798815250397,1,3
+4,37,biological intelligence,0.28895410895347595,1,3
+4,38,co-evolutionary optimization,0.2843952775001526,1,3
+4,39,complex network analysis,0.2835167646408081,1,3
+4,40,neurological disorders,0.2834489941596985,1,3
+4,41,nonlinear dynamics,0.27372610569000244,1,3
+4,42,diffusion models,0.2688892185688019,1,3
+4,43,knowledge distillation,0.24165886640548706,1,3
+4,44,real-time inference,0.24065977334976196,1,3
+4,45,hardware-software co-design,0.23401814699172974,1,3
+4,46,quantum process dynamics,0.22892838716506958,1,3
+4,47,spatiotemporal patterns,0.22477050125598907,1,3
+4,48,edge probability graphs,0.22123947739601135,1,3
+4,49,closed-loop systems,0.20655877888202667,1,3
+4,50,signal reconstruction,0.1693774163722992,1,3
+4,51,brain lesions,0.16849975287914276,1,3
+4,52,fractional dynamics,0.16797712445259094,1,3
+4,53,compiler optimization,0.15436582267284393,1,3
+4,54,probabilistic geometric analysis,0.15014442801475525,1,3
+4,55,biomarkers,0.1487620770931244,1,3
+4,56,psychiatric disorders,0.1222236305475235,1,3
+4,57,fractional-order systems,0.08561521023511887,1,3
+4,58,cross-session alignment,0.08125390857458115,1,3
+4,59,nanoparticle self-assembly,0.020130768418312073,1,3
+5,1,federated learning,0.5498633980751038,2,3
+5,2,personalized federated learning,0.5222413539886475,1,3
+5,3,coded computing,0.45820558071136475,1,3
+5,4,edge_computing,0.4548284411430359,1,3
+5,5,trustworthy ai,0.44393765926361084,1,3
+5,6,differential privacy,0.4302513301372528,1,3
+5,7,cybersecurity,0.4239528179168701,1,3
+5,8,reinforcement_learning,0.4154559075832367,1,3
+5,9,edge-cloud systems,0.4147394895553589,1,3
+5,10,privacy,0.4091747999191284,1,3
+5,11,distributed_optimization,0.40682435035705566,1,3
+5,12,sensor_networks,0.38857191801071167,1,3
+5,13,privacy_preserving,0.3884952962398529,1,3
+5,14,wireless edge computing,0.3788736164569855,1,3
+5,15,reinforcement learning,0.3761898875236511,1,3
+5,16,wireless_networks,0.3563648462295532,1,3
+5,17,privacy-preserving systems,0.3530978560447693,1,3
+5,18,synthetic data generation,0.3432372808456421,1,3
+5,19,autonomous systems,0.33440902829170227,1,3
+5,20,knowledge discovery,0.32994067668914795,1,3
+5,21,multi_agent_systems,0.32632994651794434,1,3
+5,22,iot_systems,0.32565444707870483,1,3
+5,23,secure aggregation,0.32200485467910767,1,3
+5,24,network_optimization,0.3175343871116638,1,3
+5,25,communication backends,0.3164270520210266,1,3
+5,26,trust & security,0.31183674931526184,1,3
+5,27,zero_knowledge_proofs,0.3038022816181183,1,3
+5,28,distributed offloading,0.3016108274459839,1,3
+5,29,state space models,0.294219970703125,1,3
+5,30,object-centric representation,0.29280996322631836,1,3
+5,31,sparse fine-tuning,0.29027557373046875,1,3
+5,32,cryptocurrency prediction,0.2874652147293091,1,3
+5,33,smart_contracts,0.28623056411743164,1,3
+5,34,benchmarking,0.2798532545566559,1,3
+5,35,multimodal systems,0.2734740078449249,1,3
+5,36,decentralized_consensus,0.26727181673049927,1,3
+5,37,vision-language models,0.25416380167007446,1,3
+5,38,profiling practices,0.2514418959617615,1,3
+5,39,contextual learning,0.24688217043876648,1,3
+5,40,ai_integration,0.24124586582183838,1,3
+5,41,spectrum sharing,0.23543861508369446,1,3
+5,42,network_congestion,0.22803334891796112,1,3
+5,43,machine_translation,0.22709205746650696,1,3
+5,44,data_provenance,0.22527338564395905,1,3
+5,45,diffusion models,0.22449806332588196,1,3
+5,46,cryptographic_assets,0.22061972320079803,1,3
+5,47,toxic content detection,0.21960362792015076,1,3
+5,48,blockchain_security,0.21841326355934143,1,3
+5,49,visual reasoning,0.19883155822753906,1,3
+5,50,multimodal understanding,0.19307804107666016,1,3
+5,51,cognitive reasoning,0.17182081937789917,1,3
+5,52,uncertainty estimation,0.14454413950443268,1,3
+5,53,medical reasoning,0.1275857388973236,1,3
+5,54,power_allocation,0.1260976642370224,1,3
+5,55,on-device distillation,0.10767151415348053,1,3
+5,56,hallucination detection,0.0895339623093605,1,3
+5,57,rf circuit design,0.0803861916065216,1,3
+5,58,analog circuit design,0.07395768910646439,1,3
+5,59,post-update alignment,-0.024385876953601837,1,3
+6,1,reinforcement learning,0.5727895498275757,1,2
+6,2,offline imitation learning,0.508545994758606,1,2
+6,3,bandit feedback,0.5034759044647217,1,2
+6,4,zero-sum games,0.49171334505081177,1,2
+6,5,markov decision systems,0.48948508501052856,1,2
+6,6,game theory,0.4819658696651459,1,2
+6,7,multi-agent mdps,0.47388899326324463,1,2
+6,8,control strategies,0.4712375998497009,1,2
+6,9,stochastic optimization,0.43588322401046753,1,2
+6,10,adaptive algorithms,0.4348220229148865,1,2
+6,11,bayesian learning,0.4021918773651123,1,2
+6,12,fair reward allocation,0.39560532569885254,1,2
+6,13,budget-constrained learning,0.3870429992675781,1,2
+6,14,opportunistic learning,0.37170183658599854,1,2
+6,15,nonsmooth optimization,0.3686876595020294,1,2
+6,16,resource-sharing games,0.36469438672065735,1,2
+6,17,incentivizing strategies,0.36323216557502747,1,2
+6,18,optimal messaging,0.3438544273376465,1,2
+6,19,dynamic systems,0.3412448763847351,1,2
+6,20,queueing systems,0.330630362033844,1,2
+6,21,pure exploration,0.3267472982406616,1,2
+6,22,smart robots,0.31141236424446106,1,2
+6,23,projection-free optimization,0.3058781027793884,1,2
+6,24,communication strategies,0.30574679374694824,1,2
+6,25,logically constrained systems,0.29352182149887085,1,2
+6,26,rate adaptation,0.291817307472229,1,2
+6,27,certainty equivalence policies,0.2846957743167877,1,2
+6,28,partially observable systems,0.2826893925666809,1,2
+6,29,single-server queues,0.27483680844306946,1,2
+6,30,functional constraints,0.2692839801311493,1,2
+6,31,distributionally robust learning,0.26867085695266724,1,2
+6,32,robust task inference,0.258866548538208,1,2
+6,33,subgradient methods,0.24709837138652802,1,2
+6,34,information design,0.22617779672145844,1,2
+6,35,model approximation,0.22116681933403015,1,2
+6,36,link selection,0.16572396457195282,1,2
+6,37,balance equations,0.16260133683681488,1,2
+6,38,constrained mixed arm identification,0.15580163896083832,1,2
+6,39,multiple access,0.15534941852092743,1,2
+6,40,link failures,0.11095432192087173,1,2
+7,1,network optimization,0.5561480522155762,1,2
+7,2,machine learning in networking,0.5400756597518921,1,2
+7,3,network protocols,0.5165186524391174,1,2
+7,4,network efficiency,0.5005112886428833,1,2
+7,5,ad hoc networks,0.47257405519485474,1,2
+7,6,software-defined networking,0.46441584825515747,1,2
+7,7,data center networking,0.4590744376182556,1,2
+7,8,vehicular networks,0.4489170014858246,1,2
+7,9,cloud routing,0.43491315841674805,1,2
+7,10,data communication,0.42538875341415405,1,2
+7,11,multi-hop communication,0.4253672957420349,1,2
+7,12,communication quality,0.4245516061782837,1,2
+7,13,network control,0.41863200068473816,1,2
+7,14,ar/vr networking,0.4160076379776001,1,2
+7,15,latency management,0.4132425785064697,1,2
+7,16,network security,0.39588966965675354,1,2
+7,17,data quality,0.3894636929035187,1,2
+7,18,wireless communication,0.37656909227371216,1,2
+7,19,multi-level optimization,0.36784476041793823,1,2
+7,20,heterogeneous networks,0.3376416563987732,1,2
+7,21,resource allocation,0.3333195149898529,1,2
+7,22,quality of service,0.3254200518131256,1,2
+7,23,traffic reconstruction,0.31507259607315063,1,2
+7,24,performance-aware systems,0.3083074390888214,1,2
+7,25,internet resilience,0.3058350086212158,1,2
+7,26,pipeline optimization,0.29653698205947876,1,2
+7,27,cooperative systems,0.2942059636116028,1,2
+7,28,bitwidth optimization,0.2629806399345398,1,2
+7,29,low-precision computing,0.26003962755203247,1,2
+7,30,unicast aggregation,0.2301231324672699,1,2
+7,31,adversarial robustness,0.22351229190826416,1,2
+7,32,hardware acceleration,0.21348336338996887,1,2
+7,33,autonomous trust,0.18610742688179016,1,2
+7,34,logarithmic arithmetic,0.16422219574451447,1,2
+7,35,formal verification,0.1497575044631958,1,2
+7,36,3d reconstruction,0.14963513612747192,1,2
+7,37,financial data,0.12755396962165833,1,2
+7,38,resource rescheduling,0.12097152322530746,1,2
+7,39,gaussian splatting,0.06118873506784439,1,2
+7,40,relation extraction,0.026220835745334625,1,2
+8,1,integrated circuits,0.530739426612854,1,2
+8,2,computer engineering,0.5292198657989502,1,2
+8,3,Signal Processing Circuits,0.5169586539268494,1,2
+8,4,hardware/software co-design,0.5095617175102234,1,2
+8,5,Electronic Design Automation,0.5032716989517212,1,2
+8,6,digital circuits,0.4908605217933655,1,2
+8,7,chip design,0.47413158416748047,1,2
+8,8,computer architecture,0.4576929807662964,1,2
+8,9,Mixed-Signal Integrated Circuits,0.45341771841049194,1,2
+8,10,Analog Circuits,0.44331592321395874,1,2
+8,11,Analog Computing,0.4389663636684418,1,2
+8,12,RF Integrated Circuits,0.4346938729286194,1,2
+8,13,design automation,0.4142739474773407,1,2
+8,14,CMOS Design,0.41154128313064575,1,2
+8,15,microarchitecture,0.3918471932411194,1,2
+8,16,VLSI Systems,0.3907340168952942,1,2
+8,17,system-on-chip,0.3581671416759491,1,2
+8,18,Digital Clock Generation,0.35234004259109497,1,2
+8,19,architecture design,0.3454761207103729,1,2
+8,20,vlsi design,0.34251973032951355,1,2
+8,21,computer organization,0.3423818349838257,1,2
+8,22,Circuit Optimization,0.34011489152908325,1,2
+8,23,embedded systems,0.33700084686279297,1,2
+8,24,Digital Transmitters,0.32682740688323975,1,2
+8,25,semiconductor technology,0.3232192397117615,1,2
+8,26,circuit design,0.32151132822036743,1,2
+8,27,Receiver Architectures,0.3170400857925415,1,2
+8,28,low-power design,0.3152604103088379,1,2
+8,29,cad tools,0.3037267327308655,1,2
+8,30,high-performance computing,0.2982823848724365,1,2
+8,31,Hardware Calibration,0.29614901542663574,1,2
+8,32,Boolean Satisfiability Solvers,0.283267080783844,1,2
+8,33,design verification,0.2815178632736206,1,2
+8,34,Millimeter-Wave Systems,0.2307661473751068,1,2
+8,35,parallel processing,0.22395819425582886,1,2
+8,36,Time-to-Digital Converters,0.22344785928726196,1,2
+8,37,Stochastic Computing,0.2188577950000763,1,2
+8,38,Analog-to-Digital Converters,0.21730753779411316,1,2
+8,39,Data Converters,0.20078693330287933,1,2
+8,40,Wireless Communications,0.18271586298942566,1,2
+9,1,diffusion tensor imaging,0.5653068423271179,1,2
+9,2,non-fourier radiofrequency-encoded mri,0.505635678768158,1,2
+9,3,mri denoising,0.4999307692050934,1,2
+9,4,quantitative imaging,0.49472367763519287,1,2
+9,5,sparse autoencoders,0.48454028367996216,1,2
+9,6,unrolled deep learning,0.4798879325389862,1,2
+9,7,mri,0.47605589032173157,1,2
+9,8,non-cartesian fourier imaging,0.46541428565979004,1,2
+9,9,deep learning,0.44940921664237976,1,2
+9,10,in-context learning,0.4083758294582367,1,2
+9,11,spatial regularization,0.38233262300491333,1,2
+9,12,musculoskeletal mri,0.3729766011238098,1,2
+9,13,diffusion models,0.36199960112571716,1,2
+9,14,denoising,0.36018168926239014,1,2
+9,15,task-based fmri,0.34921732544898987,1,2
+9,16,training dynamics,0.3470054864883423,1,2
+9,17,spectral priors,0.3398069441318512,1,2
+9,18,susceptibility imaging,0.3352586030960083,1,2
+9,19,continual learning,0.3226827383041382,1,2
+9,20,medical foundation models,0.31968021392822266,1,2
+9,21,k-space modeling,0.3194442391395569,1,2
+9,22,multi-task learning,0.3121144771575928,1,2
+9,23,state space models,0.30483511090278625,1,2
+9,24,tomographic reconstruction,0.2996925115585327,1,2
+9,25,disentangled representations,0.2920215129852295,1,2
+9,26,vision-language models,0.26631733775138855,1,2
+9,27,overparameterized matrix sensing,0.2646924555301666,1,2
+9,28,cryogenic electron tomography,0.22989195585250854,1,2
+9,29,shannon-like interpolation,0.22565346956253052,1,2
+9,30,compartment mapping,0.22508962452411652,1,2
+9,31,interpretable concepts,0.22320783138275146,1,2
+9,32,distortion-free dmri,0.20043189823627472,1,2
+9,33,number embeddings,0.19197982549667358,1,2
+9,34,hidden noise mitigation,0.1726820468902588,1,2
+9,35,phase constraints,0.17110294103622437,1,2
+9,36,sample complexity,0.16614726185798645,1,2
+9,37,radial turbo spin-echo,0.1592155247926712,1,2
+9,38,implicit bias,0.1040823683142662,1,2
+9,39,containerized workflows,0.09841189533472061,1,2
+9,40,lipid nanoparticle transfection,0.01486897561699152,1,2
+10,1,real-time mri,0.6604482531547546,2,2
+10,2,open-source mri,0.6115961074829102,1,2
+10,3,fetal cardiac imaging,0.5730593204498291,1,2
+10,4,cardiac imaging,0.5699489712715149,2,2
+10,5,fetal mri,0.5678414702415466,1,2
+10,6,dynamic mri,0.5558493137359619,2,2
+10,7,low-field mri,0.5505529046058655,2,2
+10,8,motion-robust imaging,0.4853559136390686,2,2
+10,9,3d imaging,0.46507400274276733,1,2
+10,10,pulmonary imaging,0.4637967348098755,1,2
+10,11,multimodal imaging,0.4502732455730438,1,2
+10,12,speech production mri,0.4500194787979126,1,2
+10,13,real-time reconstruction,0.4175041615962982,1,2
+10,14,respiratory motion correction,0.3942582309246063,1,2
+10,15,model-based reconstruction,0.3308592438697815,1,2
+10,16,image distortion correction,0.3276260495185852,1,2
+10,17,motion correction,0.3262780010700226,1,2
+10,18,signal denoising,0.29161399602890015,1,2
+10,19,signal processing,0.290447473526001,1,2
+10,20,t1 mapping,0.280941367149353,1,2
+10,21,clinical applications,0.27323323488235474,1,2
+10,22,reproducibility standards,0.27262455224990845,1,2
+10,23,spiral sampling,0.26391011476516724,1,2
+10,24,t1/t2 measurement,0.24599918723106384,1,2
+10,25,3d printed coils,0.2351180613040924,1,2
+10,26,metal artifact correction,0.21065838634967804,1,2
+10,27,concomitant field effects,0.20405730605125427,1,2
+10,28,motion compensation,0.20069481432437897,1,2
+10,29,liver fat quantification,0.19921249151229858,1,2
+10,30,phantom development,0.19029557704925537,2,2
+10,31,respiration synchronization,0.17961730062961578,1,2
+10,32,wearable sensing,0.15603391826152802,1,2
+10,33,fat fraction quantification,0.12364046275615692,1,2
+10,34,contactless gating,0.018125317990779877,1,2
