@@ -1,0 +1,293 @@
+cluster,rank,keyword,centrality_similarity,pi_df_in_cluster,cluster_size
+1,1,open-source medical devices,0.5248806476593018,1,6
+1,2,wearable health monitoring,0.4775899052619934,1,6
+1,3,wearable sensors,0.4754156470298767,2,6
+1,4,bioelectronic medicine,0.46901735663414,1,6
+1,5,implantable devices,0.46877947449684143,1,6
+1,6,implantable sensors,0.45187845826148987,1,6
+1,7,biomedical signal analysis,0.4466354250907898,1,6
+1,8,brain-machine interface,0.40642666816711426,1,6
+1,9,medical device translation,0.4014042019844055,1,6
+1,10,flexible neural probes,0.39971408247947693,1,6
+1,11,bioelectronic implants,0.3897688686847687,1,6
+1,12,endovascular electrodes,0.3885454535484314,1,6
+1,13,biosensors,0.3873554766178131,1,6
+1,14,blood flow sensing,0.3732762336730957,1,6
+1,15,haptic device development,0.370862752199173,1,6
+1,16,motor learning,0.361383318901062,1,6
+1,17,neurotechnology for cognitive enhancement,0.3604137897491455,1,6
+1,18,haptic interfaces,0.3528640866279602,1,6
+1,19,emg recording,0.35248738527297974,1,6
+1,20,neural stimulation,0.34789079427719116,1,6
+1,21,computational neuroscience,0.33787858486175537,1,6
+1,22,muscle-on-a-chip,0.3359723687171936,1,6
+1,23,bio-inspired robotics,0.3333742618560791,1,6
+1,24,hippocampal recording,0.33195728063583374,1,6
+1,25,neural interfaces,0.331712931394577,1,6
+1,26,non-invasive monitoring,0.3311731517314911,2,6
+1,27,polymer-based neural interfaces,0.32917270064353943,1,6
+1,28,hippocampal neural prosthetics,0.3290020227432251,1,6
+1,29,transcranial magnetic stimulation,0.32363638281822205,1,6
+1,30,ai diagnostics,0.3212764859199524,1,6
+1,31,closed-loop neuromodulation,0.3203834295272827,1,6
+1,32,soft closing electrodes,0.31402385234832764,1,6
+1,33,vestibular stimulation,0.31281203031539917,1,6
+1,34,longitudinal monitoring,0.31136423349380493,1,6
+1,35,low-cost sensors,0.3086217939853668,1,6
+1,36,neural control,0.3085273504257202,1,6
+1,37,pericardial pacemakers,0.3073388338088989,1,6
+1,38,biomechanical modeling,0.3050466775894165,1,6
+1,39,sensorimotor control,0.30470430850982666,1,6
+1,40,lab-on-a-chip,0.3045114278793335,1,6
+1,41,wearable ppg monitoring,0.30352649092674255,1,6
+1,42,maternal health monitoring,0.30086997151374817,1,6
+1,43,telehealth screening,0.29998695850372314,1,6
+1,44,lithium therapy monitoring,0.2993393540382385,1,6
+1,45,subcortical control,0.2979779541492462,1,6
+1,46,polymer microelectrodes,0.2977738380432129,1,6
+1,47,forensic electrochemistry,0.2949749529361725,1,6
+1,48,electrochemical sensors,0.294310986995697,1,6
+1,49,microneedle sensing,0.2923697233200073,1,6
+1,50,biomarker sensing,0.29172366857528687,1,6
+1,51,mental stress monitoring,0.27871525287628174,1,6
+1,52,electrochemical sensing,0.2750948667526245,1,6
+1,53,human-in-the-loop systems,0.26938748359680176,1,6
+1,54,companion diagnostics,0.2681335210800171,1,6
+1,55,haptic properties,0.2663429379463196,1,6
+1,56,haptic middleware,0.26536619663238525,1,6
+1,57,stroke rehabilitation,0.2629340887069702,1,6
+1,58,sciatic nerve stimulation,0.25808870792388916,1,6
+1,59,cardiac pacing,0.2573651671409607,1,6
+1,60,gait control,0.255443811416626,1,6
+1,61,multisensor systems,0.2537537217140198,1,6
+1,62,cardiorespiratory biomarkers,0.2509927451610565,1,6
+1,63,flexible electronics,0.2506793141365051,1,6
+1,64,pediatric applications,0.23089008033275604,1,6
+1,65,dental diagnostics,0.22664618492126465,1,6
+1,66,neurorehabilitation,0.2263123095035553,1,6
+1,67,leadless stimulators,0.22484326362609863,1,6
+1,68,haptic feedback,0.21836233139038086,1,6
+1,69,breast milk analysis,0.21804183721542358,1,6
+1,70,locomotion,0.2174876481294632,1,6
+1,71,biomarker prediction,0.21738268435001373,1,6
+1,72,tendon-driven robots,0.21540267765522003,1,6
+1,73,electrochemical analysis,0.21377557516098022,1,6
+1,74,robotic manipulation,0.20243579149246216,1,6
+1,75,population spiking analysis,0.19991883635520935,1,6
+1,76,machine learning,0.1989002823829651,1,6
+1,77,human movement,0.19852538406848907,1,6
+1,78,wearable sensor calibration,0.19765470921993256,1,6
+1,79,motor control,0.19567319750785828,1,6
+1,80,lifelong learning,0.18393446505069733,1,6
+1,81,wireless passive,0.18142680823802948,1,6
+1,82,oxygen desaturation monitoring,0.1804695427417755,1,6
+1,83,choline detection,0.17924809455871582,1,6
+1,84,curriculum learning,0.17882049083709717,1,6
+1,85,stress-induced hemodynamics,0.17782548069953918,1,6
+1,86,neural cell behavior,0.1776616871356964,1,6
+1,87,object manipulation,0.17388856410980225,1,6
+1,88,distributed temporal coding,0.17372921109199524,1,6
+1,89,orofacial pain diagnostics,0.1725633591413498,1,6
+1,90,hemodynamic stress response,0.17159616947174072,1,6
+1,91,dielectric spectroscopy,0.1698109358549118,1,6
+1,92,polymer-based materials,0.16809827089309692,1,6
+1,93,intermuscular coherence,0.16655738651752472,1,6
+1,94,home screening,0.16091953217983246,1,6
+1,95,chronic disease management,0.15270370244979858,1,6
+1,96,point-of-care,0.1518983244895935,1,6
+1,97,autonomous learning,0.15043070912361145,1,6
+1,98,microfabrication,0.14997515082359314,1,6
+1,99,vasoconstriction biomarkers,0.1456344574689865,1,6
+1,100,dexterity,0.1412723809480667,1,6
+1,101,material selection,0.13682761788368225,1,6
+1,102,temporal dynamics,0.13232888281345367,1,6
+1,103,microneedle delivery,0.12906986474990845,1,6
+1,104,pulse wave analysis,0.12856338918209076,1,6
+1,105,obstructive sleep apnea,0.12563113868236542,1,6
+1,106,memory encoding,0.12523427605628967,1,6
+1,107,episodic memory decoding,0.11416739225387573,1,6
+1,108,miniaturized coils,0.11072448641061783,1,6
+1,109,visual memory decoding,0.10865381360054016,1,6
+1,110,surface geometry,0.10736607015132904,2,6
+1,111,surgical insertion techniques,0.0942939817905426,1,6
+1,112,flexible thin film,0.08307971060276031,1,6
+1,113,asic integration,0.06816031783819199,1,6
+1,114,extracellular vesicles,0.061559148132801056,1,6
+1,115,sickle cell disease,0.05603557452559471,1,6
+1,116,sustainable agriculture,0.0417286716401577,1,6
+1,117,vaso-occlusive crisis,-0.04650050401687622,1,6
+2,1,therapeutic target discovery,0.5381309986114502,1,4
+2,2,cancer systems biology,0.5062524080276489,1,4
+2,3,programmable material-cell pathways,0.4899381995201111,1,4
+2,4,genetically engineered cells,0.47286462783813477,1,4
+2,5,cell engineering,0.45853209495544434,1,4
+2,6,kidney-targeted therapies,0.43714457750320435,1,4
+2,7,t cell-targeting nanotherapies,0.42233386635780334,1,4
+2,8,nanoparticle biodistribution,0.4186760187149048,1,4
+2,9,tumor microenvironment,0.40710437297821045,1,4
+2,10,actively targeted nanoparticles,0.40528604388237,1,4
+2,11,biodegradable nanoparticles,0.3975522816181183,1,4
+2,12,nanoparticle targeting,0.3864879012107849,1,4
+2,13,targeted nanoparticles,0.3854329586029053,1,4
+2,14,biomaterials,0.3801882565021515,1,4
+2,15,endothelial targeting,0.3699641227722168,1,4
+2,16,high-plex spatial proteomic imaging,0.3693464994430542,1,4
+2,17,cell signaling,0.3668505549430847,1,4
+2,18,functional proteins delivery,0.36138105392456055,1,4
+2,19,metabolic reprogramming,0.353069931268692,1,4
+2,20,cancer-associated fibroblasts,0.3480913043022156,1,4
+2,21,lipid nanoparticles,0.33974188566207886,1,4
+2,22,engineered myometrium,0.336081326007843,1,4
+2,23,gene expression modulation,0.3353872299194336,1,4
+2,24,sex-based proteomics,0.3310800790786743,1,4
+2,25,immune profiling,0.33075323700904846,1,4
+2,26,cancer metabolism,0.32168662548065186,1,4
+2,27,mir-145 micelles,0.31858882308006287,1,4
+2,28,apoptosis signaling,0.31647127866744995,1,4
+2,29,label-free biodistribution analysis,0.3163696527481079,1,4
+2,30,metabolic network modeling,0.31521880626678467,1,4
+2,31,microphysiological systems,0.31425410509109497,1,4
+2,32,genome-scale metabolic modeling,0.30497294664382935,1,4
+2,33,synthetic notch receptors,0.3029590845108032,1,4
+2,34,apob-100 nanoparticles,0.29653406143188477,1,4
+2,35,urinary extracellular vesicles,0.29401564598083496,1,4
+2,36,sers nanoparticles,0.2933763265609741,1,4
+2,37,quantitative imaging,0.2930651307106018,1,4
+2,38,multiplexed raman imaging,0.28878700733184814,1,4
+2,39,tumor-immune interactions,0.28825876116752625,1,4
+2,40,t cell dynamics,0.2760315537452698,1,4
+2,41,basolateral targeting,0.2706088125705719,1,4
+2,42,nk cell-derived evs,0.2698405086994171,1,4
+2,43,biodistribution analysis,0.2690383195877075,1,4
+2,44,gold nanoparticles,0.26429152488708496,1,4
+2,45,label-free imaging,0.26383650302886963,1,4
+2,46,microfluidic gradients,0.25434911251068115,1,4
+2,47,pancreatic beta cells,0.25165897607803345,1,4
+2,48,multiplexed spectral imaging,0.24682006239891052,1,4
+2,49,muscle-on-chip,0.24274593591690063,1,4
+2,50,zebrafish heart regeneration,0.2426450550556183,1,4
+2,51,raman nanoparticles,0.23890528082847595,1,4
+2,52,vascular smooth muscle cells,0.23833590745925903,1,4
+2,53,tendon regeneration,0.23542943596839905,2,4
+2,54,muscle-on-a-chip,0.23488754034042358,1,4
+2,55,ipsc-derived motor neurons,0.23050490021705627,1,4
+2,56,fluorescence-guided surgery,0.22587135434150696,1,4
+2,57,raman topography imaging,0.2146567404270172,1,4
+2,58,biodegradable composites,0.2078654170036316,1,4
+2,59,epigenetic modifiers,0.20681622624397278,1,4
+2,60,colorectal cancer,0.1981469839811325,1,4
+2,61,atherosclerosis therapy,0.18973764777183533,1,4
+2,62,colon organoid,0.18419525027275085,1,4
+2,63,permeabilization workflow,0.17977750301361084,1,4
+2,64,multiscale modeling,0.17710697650909424,1,4
+2,65,mitochondrial dysfunction,0.17326825857162476,1,4
+2,66,multiphoton luminescence imaging,0.16950342059135437,1,4
+2,67,probabilistic modeling,0.16345512866973877,1,4
+2,68,inflammatory cytokine response,0.16215690970420837,1,4
+2,69,cardiovascular calcification,0.14864498376846313,1,4
+2,70,mechanistic modeling,0.143235981464386,1,4
+2,71,drug resistance,0.14304107427597046,1,4
+2,72,microneedles,0.13720881938934326,1,4
+2,73,hypoxic-normoxic crosstalk,0.11636210978031158,1,4
+2,74,mri detection,0.09182749688625336,1,4
+2,75,spatial differentiation control,0.09137151390314102,1,4
+2,76,frank-starling mechanism,0.07655300945043564,1,4
+2,77,lymphatic response,0.07610087096691132,1,4
+2,78,bayesian inference,0.07027193158864975,1,4
+2,79,prostaglandin response,0.06965722888708115,1,4
+3,1,ultrasound-controlled therapies,0.6236222982406616,1,3
+3,2,therapeutic ultrasound,0.6193580627441406,1,3
+3,3,functional ultrasound imaging,0.5651840567588806,1,3
+3,4,ultrasound imaging,0.5533105134963989,1,3
+3,5,focused ultrasound,0.5180833339691162,1,3
+3,6,ultrasound neuromodulation,0.4947488307952881,1,3
+3,7,intravascular ultrasound,0.43296778202056885,1,3
+3,8,biomedical optics,0.4298078417778015,1,3
+3,9,wearable ultrasound,0.425565242767334,1,3
+3,10,live-cell imaging,0.4233025312423706,1,3
+3,11,label-free imaging,0.3995118737220764,1,3
+3,12,microvessel imaging,0.387878954410553,1,3
+3,13,cardiovascular imaging,0.38694125413894653,1,3
+3,14,clinical applications,0.3812907040119171,1,3
+3,15,ultrasound elastography,0.3807075619697571,1,3
+3,16,volumetric imaging,0.35879313945770264,1,3
+3,17,kinase activity imaging,0.34368711709976196,1,3
+3,18,gene therapy,0.34329891204833984,1,3
+3,19,ocular imaging,0.34158802032470703,1,3
+3,20,photoacoustic imaging,0.3402777314186096,1,3
+3,21,transcranial imaging,0.32882729172706604,1,3
+3,22,synthetic biology,0.3231668472290039,1,3
+3,23,holographic sonogenetics,0.2926841378211975,1,3
+3,24,3d bioprinting,0.29015064239501953,1,3
+3,25,targeted signaling pathways,0.2763516306877136,1,3
+3,26,mechanogenetics,0.27187496423721313,2,3
+3,27,optogenetics,0.2710140347480774,1,3
+3,28,mechanobiology,0.26722896099090576,1,3
+3,29,color flow imaging,0.2659940719604492,1,3
+3,30,tumor microenvironment,0.26129478216171265,1,3
+3,31,super-resolution imaging,0.2562752068042755,2,3
+3,32,acoustic biosensing,0.252363383769989,1,3
+3,33,noninvasive neural modulation,0.24821951985359192,1,3
+3,34,immunotherapy,0.24721132218837738,1,3
+3,35,sonodynamic therapy,0.2471364140510559,1,3
+3,36,cell reprogramming,0.24537980556488037,1,3
+3,37,car-t cell therapy,0.2421245574951172,1,3
+3,38,cancer immunotherapy,0.23219484090805054,2,3
+3,39,sonogenetic-fpet,0.22968074679374695,1,3
+3,40,brain delivery,0.22824612259864807,1,3
+3,41,CAR T cell therapy,0.22776424884796143,1,3
+3,42,microrobotics,0.22262851893901825,1,3
+3,43,sonogenetics,0.22016488015651703,1,3
+3,44,neuromodulation,0.219936341047287,1,3
+3,45,precision neuromodulation,0.21479840576648712,1,3
+3,46,aav vector delivery,0.20328593254089355,1,3
+3,47,epigenetic modifications,0.19574402272701263,1,3
+3,48,vision restoration,0.1875525414943695,1,3
+3,49,biosensors,0.1850982904434204,1,3
+3,50,acoustic transparency,0.18477852642536163,1,3
+3,51,airy-beam technology,0.17862720787525177,1,3
+3,52,genomic regulation,0.1742945909500122,1,3
+3,53,two-photon microscopy,0.17357654869556427,1,3
+3,54,rna biology,0.17130857706069946,1,3
+3,55,histone code,0.16339991986751556,1,3
+3,56,glymphatic transport,0.08422504365444183,1,3
+3,57,directed evolution,0.08010810613632202,1,3
+4,1,metabolic imaging,0.5934948921203613,1,2
+4,2,metabolic biomarkers,0.5179128646850586,1,2
+4,3,label-free imaging,0.4749583601951599,2,2
+4,4,biomarkers,0.45358842611312866,1,2
+4,5,quantitative imaging,0.44827091693878174,1,2
+4,6,multiplexed imaging,0.43399906158447266,1,2
+4,7,metabolic profiling,0.43164563179016113,1,2
+4,8,tumor microenvironments,0.4003036618232727,1,2
+4,9,cancer metabolism,0.3822598457336426,1,2
+4,10,microphysiological systems,0.37749624252319336,1,2
+4,11,organ models,0.3717729449272156,1,2
+4,12,crispr-engineered models,0.3532765209674835,1,2
+4,13,light field microscopy,0.3525785207748413,1,2
+4,14,fluorescent proteins,0.34127020835876465,1,2
+4,15,hypoxia induction,0.32582348585128784,1,2
+4,16,zebrafish models,0.3232284188270569,1,2
+4,17,retinal organoids,0.31811124086380005,1,2
+4,18,super-resolved imaging,0.31718993186950684,1,2
+4,19,biophysical characteristics,0.2985733449459076,1,2
+4,20,hyperspectral imaging,0.28994762897491455,1,2
+4,21,metabolic heterogeneity,0.28663012385368347,1,2
+4,22,hypoxia-induced,0.27850109338760376,1,2
+4,23,insulin vesicles,0.2781715989112854,1,2
+4,24,hypoxia,0.27644383907318115,1,2
+4,25,protein expression,0.2744564414024353,1,2
+4,26,stem cell fate,0.2709522545337677,1,2
+4,27,neural pathways,0.26936399936676025,1,2
+4,28,insulin secretion,0.2666699290275574,1,2
+4,29,organoid systems,0.2617643475532532,1,2
+4,30,microfluidic devices,0.26031380891799927,1,2
+4,31,skeletal muscle tissue,0.23222854733467102,1,2
+4,32,signal transduction,0.20902517437934875,1,2
+4,33,3d printing,0.2083139270544052,1,2
+4,34,ph sensors,0.17296895384788513,1,2
+4,35,microfabrication,0.1447618007659912,1,2
+4,36,paracrine interactions,0.11025532335042953,1,2
+4,37,mathematical modeling,0.10513946413993835,1,2
+4,38,fluctuation spectroscopy,0.0816636011004448,1,2
+4,39,phasor analysis,0.06531792879104614,1,2
