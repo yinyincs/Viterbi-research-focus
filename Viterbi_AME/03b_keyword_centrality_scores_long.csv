@@ -1,0 +1,322 @@
+cluster,rank,keyword,centrality_similarity,pi_df_in_cluster,cluster_size
+1,1,combustion modeling,0.6227229833602905,2,6
+1,2,turbulent combustion,0.5658461451530457,1,6
+1,3,large-eddy simulations,0.5272334814071655,1,6
+1,4,combustion properties,0.5265823602676392,1,6
+1,5,hydrodynamic modeling,0.520740270614624,1,6
+1,6,large eddy simulations,0.5158628225326538,1,6
+1,7,flame dynamics,0.4975843131542206,1,6
+1,8,closed channel combustion,0.4911491870880127,1,6
+1,9,computational fluid dynamics,0.4883491098880768,1,6
+1,10,planar flame dynamics,0.4808454215526581,1,6
+1,11,supersonic aerothermodynamics,0.4748225510120392,1,6
+1,12,high-speed turbulent flows,0.4740341901779175,1,6
+1,13,plasma-enhanced combustion,0.47207653522491455,1,6
+1,14,closed vessel combustion,0.4641575515270233,1,6
+1,15,numerical simulations,0.4632638394832611,1,6
+1,16,flame propagation,0.46218162775039673,2,6
+1,17,turbulence,0.4490804076194763,1,6
+1,18,turbulent boundary layers,0.4415057897567749,1,6
+1,19,reacting flow simulation,0.43742871284484863,1,6
+1,20,multi-fidelity simulations,0.4300526976585388,1,6
+1,21,direct numerical simulation,0.4286850094795227,1,6
+1,22,turbulent transport,0.4245966076850891,1,6
+1,23,turbulence control,0.4217025935649872,1,6
+1,24,fuel blends,0.41797107458114624,1,6
+1,25,one-dimensional turbulence,0.4113253355026245,1,6
+1,26,flame instabilities,0.40863683819770813,1,6
+1,27,separated turbulent boundary layers,0.4046476185321808,1,6
+1,28,high-speed reactive flows,0.40237486362457275,1,6
+1,29,kinetic modeling,0.39122670888900757,1,6
+1,30,hydrogen combustion,0.3892761468887329,1,6
+1,31,methane combustion,0.3873096704483032,1,6
+1,32,fluid dynamics,0.3866424858570099,1,6
+1,33,wall-bounded turbulence,0.383994460105896,1,6
+1,34,fluid-structure interaction,0.38140547275543213,1,6
+1,35,multiphase flows,0.3794441223144531,1,6
+1,36,eddy viscosity,0.3696110248565674,1,6
+1,37,heat flux prediction,0.36885392665863037,1,6
+1,38,transitional supersonic boundary layers,0.3530758023262024,1,6
+1,39,hypersonic decelerators,0.35302120447158813,1,6
+1,40,closed vessel dynamics,0.35074490308761597,1,6
+1,41,fuel chemistry,0.33927953243255615,1,6
+1,42,nitrogen-diluted hydrogen jet,0.33515211939811707,1,6
+1,43,riblet-turbulence interaction,0.3343217968940735,1,6
+1,44,oceanic particle-laden flows,0.3223991394042969,1,6
+1,45,hydrogen-natural gas blends,0.31979453563690186,1,6
+1,46,immersed boundary method,0.31303590536117554,1,6
+1,47,ammonia combustion,0.31267568469047546,1,6
+1,48,adiabatic walls,0.31176772713661194,1,6
+1,49,centrally ignited flames,0.31029361486434937,1,6
+1,50,high-speed dynamic reefing,0.31003284454345703,1,6
+1,51,three-dimensional effects,0.2983645796775818,1,6
+1,52,multidimensional models,0.29570305347442627,1,6
+1,53,internal combustion engine,0.29015183448791504,1,6
+1,54,wave-canopy interaction,0.2893679141998291,1,6
+1,55,sensor-based simulation,0.28760236501693726,1,6
+1,56,wall-bounded flows,0.28032928705215454,1,6
+1,57,preferential vaporization,0.2600799798965454,1,6
+1,58,engine-relevant conditions,0.2565181851387024,1,6
+1,59,chemical kinetics,0.24271413683891296,1,6
+1,60,wall-modeled les,0.2424774169921875,1,6
+1,61,multiscale interactions,0.23851260542869568,1,6
+1,62,nox emission reduction,0.23118095099925995,1,6
+1,63,interscale energy transfer,0.23056963086128235,1,6
+1,64,wake structure,0.2302035093307495,1,6
+1,65,spectroscopic analysis,0.22894611954689026,1,6
+1,66,ultrafast chemical dynamics molecular reaction mechanisms,0.22888129949569702,1,6
+1,67,global dynamics,0.22777336835861206,1,6
+1,68,heat transfer,0.21681085228919983,1,6
+1,69,transient plasma,0.2138817012310028,1,6
+1,70,coupled euler equations,0.20675182342529297,1,6
+1,71,plasma-based remediation,0.20203745365142822,1,6
+1,72,permeability,0.19684338569641113,1,6
+1,73,polymer mechanics,0.19324585795402527,1,6
+1,74,hyperbolic problems,0.1918727159500122,1,6
+1,75,mechanochemistry,0.19151999056339264,1,6
+1,76,subgrid-scale similarity stress tensor,0.19149619340896606,1,6
+1,77,compressibility,0.191448375582695,1,6
+1,78,equilibrium wall model,0.1898087114095688,1,6
+1,79,reduced-order chemistry,0.1861448734998703,1,6
+1,80,wall heating and cooling,0.18112270534038544,1,6
+1,81,smooth boundary forces,0.1786167472600937,1,6
+1,82,optical properties,0.1771918088197708,1,6
+1,83,internal solitary waves,0.17596435546875,1,6
+1,84,spanwise-inhomogeneous separation,0.17405295372009277,1,6
+1,85,nonlinear restoring force,0.17138001322746277,1,6
+1,86,energy efficiency,0.17053481936454773,1,6
+1,87,sinusoidal roughness elements,0.1673368662595749,1,6
+1,88,auto-ignition,0.1665191650390625,1,6
+1,89,end-gas reactivity,0.16522537171840668,1,6
+1,90,interfacial interactions,0.16509270668029785,1,6
+1,91,lagrangian coherent structures,0.1643117070198059,1,6
+1,92,structured porous materials,0.15489298105239868,1,6
+1,93,high-order compact difference,0.14865659177303314,1,6
+1,94,parachute deployment,0.14368370175361633,1,6
+1,95,modal analysis,0.1398354470729828,1,6
+1,96,seawater reverse osmosis,0.1393115520477295,1,6
+1,97,floating canopies,0.13302700221538544,1,6
+1,98,diabatic walls,0.12480336427688599,1,6
+1,99,propulsive efficiency,0.1201573982834816,1,6
+1,100,oxidation chemistry,0.11743374168872833,1,6
+1,101,thin shell finite elements,0.11690571904182434,1,6
+1,102,data-driven sparse sensing,0.11570984870195389,1,6
+1,103,moving boundaries,0.11562512814998627,1,6
+1,104,data efficiency,0.10851603746414185,1,6
+1,105,electrocyclic reactions,0.10138344019651413,1,6
+1,106,nox remediation,0.10037925839424133,1,6
+1,107,light depolarization,0.08041153848171234,1,6
+1,108,minimal measurements,0.07537635415792465,1,6
+1,109,geometric contact,0.07085304707288742,1,6
+1,110,blackout mitigation,0.06612861901521683,1,6
+1,111,autoignition,0.06456790119409561,1,6
+1,112,regularized projection,0.06349225342273712,1,6
+1,113,explicit time integration,0.04839477315545082,1,6
+1,114,sox remediation,0.04787592589855194,1,6
+1,115,anisotropic porous substrates,0.047050997614860535,1,6
+1,116,nutrient load estimation,0.017379801720380783,1,6
+1,117,reentry communications blackout,-0.019223704934120178,1,6
+2,1,machine learning applications,0.4497279226779938,1,5
+2,2,deep learning applications,0.40311455726623535,1,5
+2,3,operator networks,0.38905757665634155,1,5
+2,4,nonlinear systems,0.3814311623573303,1,5
+2,5,generative models,0.37801772356033325,1,5
+2,6,model-free reinforcement learning,0.36229386925697327,1,5
+2,7,q-learning,0.36015981435775757,1,5
+2,8,nonlinear vibrations,0.3462145924568176,1,5
+2,9,variational methods,0.3423997461795807,1,5
+2,10,cilia-driven transport,0.3406098484992981,1,5
+2,11,machine learning,0.33833548426628113,2,5
+2,12,conditional generative adversarial networks,0.33652329444885254,1,5
+2,13,underwater locomotion,0.31915780901908875,1,5
+2,14,vibrational analysis,0.301848441362381,1,5
+2,15,deep learning,0.29795950651168823,2,5
+2,16,markov tumor model,0.29249489307403564,1,5
+2,17,probabilistic methods,0.28345543146133423,1,5
+2,18,replicator game dynamics,0.28213638067245483,1,5
+2,19,flow physics,0.28101858496665955,1,5
+2,20,strain sensing,0.28023630380630493,1,5
+2,21,data assimilation,0.27874135971069336,1,5
+2,22,flow coupling,0.27708718180656433,1,5
+2,23,in vivo monitoring,0.2759002447128296,1,5
+2,24,flow sensing,0.269330233335495,1,5
+2,25,nonlinear oscillations,0.267723023891449,1,5
+2,26,rotor dynamics,0.2657158374786377,1,5
+2,27,bifurcation analysis,0.2612278163433075,1,5
+2,28,feedback control,0.2591608762741089,1,5
+2,29,soft robots,0.25914961099624634,1,5
+2,30,implantable sensors,0.2521384060382843,1,5
+2,31,ciliary synchronization,0.24966736137866974,1,5
+2,32,nonlinear restoring force,0.24830299615859985,1,5
+2,33,chronic implantable sensing,0.2468791902065277,1,5
+2,34,structure-function relationships,0.2400279939174652,1,5
+2,35,finite population evolutionary games,0.2394314706325531,1,5
+2,36,global analysis,0.23800800740718842,1,5
+2,37,chemotherapy dose scheduling,0.23106485605239868,1,5
+2,38,cardiac physiology,0.2306595742702484,1,5
+2,39,physics-constrained inverse problems,0.22372229397296906,1,5
+2,40,multiplexed sensing,0.21665845811367035,1,5
+2,41,dynamic stability,0.21593154966831207,1,5
+2,42,differential equations,0.21350553631782532,1,5
+2,43,dose schedule synchronization,0.21138542890548706,1,5
+2,44,flexible electronics,0.21118752658367157,1,5
+2,45,medical image analysis,0.20848914980888367,1,5
+2,46,steady-state solutions,0.20779559016227722,1,5
+2,47,articulated robot,0.20697021484375,1,5
+2,48,heart pacemakers,0.20280523598194122,1,5
+2,49,multi-modal data,0.1987888067960739,1,5
+2,50,jeffcott rotor,0.19677942991256714,1,5
+2,51,schooling fish,0.19007734954357147,1,5
+2,52,cooperative transport,0.18815934658050537,1,5
+2,53,wildfire spread modeling,0.18735527992248535,1,5
+2,54,stretchable electronics,0.1863604336977005,1,5
+2,55,two-stage schedules,0.17614538967609406,1,5
+2,56,collective milling,0.17510083317756653,1,5
+2,57,stability,0.17493727803230286,1,5
+2,58,computed tomography,0.16779330372810364,1,5
+2,59,3d shape reconstruction,0.16664181649684906,1,5
+2,60,acoustic sensing,0.16648688912391663,1,5
+2,61,parametric excitation,0.16456907987594604,1,5
+2,62,collective transitions,0.1632976531982422,1,5
+2,63,rotational speed variation,0.16261136531829834,1,5
+2,64,bayesian inference,0.16259220242500305,1,5
+2,65,cross-cancer comparative analysis,0.15682420134544373,1,5
+2,66,multidrug chemotherapy,0.1543986052274704,1,5
+2,67,parametric resonance,0.15079320967197418,1,5
+2,68,system stability,0.1498454511165619,1,5
+2,69,non-destructive evaluation,0.14957113564014435,1,5
+2,70,collective memory,0.14870798587799072,1,5
+2,71,self-organization,0.14827604591846466,1,5
+2,72,single cell phenotyping,0.14716564118862152,1,5
+2,73,fluid-structure interaction,0.1410285383462906,1,5
+2,74,microtransfer printing,0.1393480896949768,1,5
+2,75,nutrient transport,0.1357661783695221,1,5
+2,76,hydrodynamic equivalence,0.132486030459404,1,5
+2,77,liquid metal electronics,0.12819722294807434,1,5
+2,78,nanowire composite arrays,0.12256839871406555,1,5
+2,79,intramuscular electromyography,0.12117650359869003,1,5
+2,80,harmonic balance,0.11469393223524094,1,5
+2,81,uncertainty quantification,0.11104933172464371,1,5
+2,82,information transfer,0.11014404892921448,1,5
+2,83,cancer-immunity cycle,0.10769486427307129,1,5
+2,84,transfer printing,0.09972333908081055,1,5
+2,85,deformable surface,0.09281623363494873,1,5
+2,86,recombinant evolution,0.08935493975877762,1,5
+2,87,frequency response,0.08884377777576447,1,5
+2,88,temporal window,0.08244547247886658,1,5
+2,89,image imputation,0.08176816999912262,1,5
+2,90,generation-establishment tradeoffs,0.07960537821054459,1,5
+2,91,spatial distribution of brain metastases,0.0784982368350029,1,5
+2,92,conformal deposition,0.07645438611507416,1,5
+2,93,periodic solutions,0.06365261971950531,1,5
+2,94,bernstein polynomial approximation,0.050732746720314026,1,5
+2,95,mucociliary clearance,0.046912968158721924,1,5
+2,96,fixation probability,0.03352826088666916,1,5
+2,97,spent nuclear fuel canister monitoring,0.017720568925142288,1,5
+2,98,wide bandgap semiconductors,-0.02035197988152504,1,5
+3,1,robotic automation,0.5898478627204895,2,3
+3,2,autonomous manipulation,0.5201303958892822,1,3
+3,3,agricultural robotics,0.5156412124633789,1,3
+3,4,legged robotics,0.5064018964767456,1,3
+3,5,multi-robot systems,0.5028855204582214,1,3
+3,6,planning and control,0.5013340711593628,1,3
+3,7,microgravity robotics,0.4930645823478699,1,3
+3,8,human-robot collaboration,0.4748753309249878,1,3
+3,9,robotic health monitoring,0.47162124514579773,1,3
+3,10,quadruped robots,0.47022902965545654,1,3
+3,11,autonomy architecture,0.4519808292388916,1,3
+3,12,dynamic loco-manipulation,0.44586652517318726,1,3
+3,13,whole-body loco-manipulation,0.4452899396419525,1,3
+3,14,hierarchical control,0.4383057951927185,1,3
+3,15,autonomous processing,0.43039950728416443,1,3
+3,16,energy-aware planning,0.4211925268173218,1,3
+3,17,safety and collision avoidance,0.40127164125442505,1,3
+3,18,humanoid locomotion,0.39557647705078125,1,3
+3,19,planning,0.39187952876091003,1,3
+3,20,model predictive control,0.38893622159957886,2,3
+3,21,robust control,0.38425564765930176,1,3
+3,22,collision-free trajectory optimization,0.37076008319854736,1,3
+3,23,force-conditioned control,0.36744916439056396,1,3
+3,24,multi-agent systems,0.36560261249542236,1,3
+3,25,reinforcement learning,0.36360445618629456,2,3
+3,26,adaptive control,0.35221314430236816,1,3
+3,27,space exploration,0.33183765411376953,1,3
+3,28,space assembly,0.32691654562950134,1,3
+3,29,real-world manufacturing,0.32132434844970703,1,3
+3,30,compliance control,0.31880342960357666,1,3
+3,31,robust replanning,0.3174326717853546,1,3
+3,32,multi-mode policies,0.3106042146682739,1,3
+3,33,control,0.3076974153518677,1,3
+3,34,deformable object handling,0.29713740944862366,1,3
+3,35,on-orbit close proximity operations,0.2807479798793793,1,3
+3,36,high-fidelity simulation,0.271945059299469,2,3
+3,37,lunar driving,0.27128374576568604,1,3
+3,38,safe microgravity inspection,0.2628057897090912,1,3
+3,39,predictive maintenance,0.259618878364563,1,3
+3,40,task allocation,0.24921303987503052,1,3
+3,41,agricultural logistics,0.2489374577999115,1,3
+3,42,dark ages universe mission concepts,0.2399713397026062,1,3
+3,43,safety-critical,0.23482675850391388,1,3
+3,44,biomedical applications,0.20600707828998566,1,3
+3,45,close proximity operations,0.2045435607433319,1,3
+3,46,composite manufacturing,0.19999593496322632,1,3
+3,47,self-supervised learning,0.19726072251796722,1,3
+3,48,payload transfer safety,0.1832214891910553,1,3
+3,49,reactive close proximity operations,0.17623068392276764,1,3
+3,50,digital twin technology,0.1644488275051117,1,3
+3,51,in-context reasoning,0.14379553496837616,1,3
+3,52,model estimation,0.13429543375968933,1,3
+3,53,change detection,0.11462792009115219,1,3
+3,54,energy efficiency,0.08460749685764313,1,3
+3,55,persistent leader election,-0.0038374662399291992,1,3
+3,56,rare disease diagnosis,-0.025222493335604668,1,3
+4,1,physics-based modeling,0.5045251846313477,2,3
+4,2,cardiovascular biomechanics,0.503841757774353,1,3
+4,3,multi-physics modeling,0.4625608026981354,1,3
+4,4,physics-informed neural networks,0.44187498092651367,1,3
+4,5,noninvasive cardiovascular assessment,0.41726696491241455,1,3
+4,6,hemodynamics,0.4157574772834778,1,3
+4,7,cardiovascular imaging,0.4117514491081238,1,3
+4,8,vascular remodeling,0.3965705931186676,1,3
+4,9,arterial pressure waveforms,0.39396196603775024,1,3
+4,10,angiography data analysis,0.378048300743103,1,3
+4,11,fluid motion,0.3559541702270508,1,3
+4,12,scientific machine learning,0.34763607382774353,1,3
+4,13,drug transport prediction,0.34531810879707336,1,3
+4,14,cerebral hemodynamics,0.34376078844070435,1,3
+4,15,engineering education,0.33767178654670715,1,3
+4,16,data-driven modeling,0.3296685218811035,1,3
+4,17,digital twins for biofluids,0.3193178176879883,1,3
+4,18,multi-fidelity modeling,0.3184204697608948,1,3
+4,19,research in engineering,0.3149563670158386,1,3
+4,20,machine learning,0.30047014355659485,1,3
+4,21,pulsatile blood flow,0.26998504996299744,1,3
+4,22,coronary microvascular function,0.26724928617477417,1,3
+4,23,statistical mechanics,0.2538919448852539,1,3
+4,24,vitreous flow,0.24961188435554504,1,3
+4,25,heart-brain interaction,0.24818965792655945,1,3
+4,26,left ventricular function,0.24045954644680023,1,3
+4,27,time-frequency analysis,0.23310011625289917,1,3
+4,28,nonlinear elasticity,0.23161037266254425,1,3
+4,29,irregular liquefaction geometry,0.21785978972911835,1,3
+4,30,reduced-order modeling,0.21655169129371643,1,3
+4,31,fractional flow reserve,0.1995508074760437,1,3
+4,32,aortic dissection,0.1945083737373352,1,3
+4,33,wave intensity analysis,0.19450831413269043,1,3
+4,34,inverse reinforcement learning,0.17992670834064484,1,3
+4,35,pattern formation,0.17437128722667694,1,3
+4,36,free energy functions,0.1723669171333313,1,3
+4,37,ischemic stroke,0.16826549172401428,1,3
+4,38,partial differential equations,0.16190066933631897,1,3
+4,39,myocardial infarction,0.1580033004283905,1,3
+4,40,electroencephalography,0.1545998752117157,1,3
+4,41,constitutive parameter inference,0.14541234076023102,1,3
+4,42,partial liquefaction,0.13936880230903625,1,3
+4,43,mesenchymal dewetting,0.13388872146606445,1,3
+4,44,graph theory,0.11510024964809418,1,3
+4,45,empagliflozin,0.1086222231388092,1,3
+4,46,density stratification,0.10240650177001953,1,3
+4,47,system identification,0.08350367844104767,1,3
+4,48,carotid artery disease,0.07130929827690125,1,3
+4,49,oscillating sphere,0.04071547091007233,1,3
+4,50,vitreous humor,0.016692277044057846,1,3

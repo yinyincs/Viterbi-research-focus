@@ -1,0 +1,81 @@
+cluster,rank,candidate_label,centroid_similarity
+1,1,combustion modeling,0.6227229237556458
+1,2,turbulent combustion,0.5658460855484009
+1,3,large-eddy simulations,0.5272336006164551
+1,4,combustion properties,0.5265823602676392
+1,5,eddy simulations,0.5235592126846313
+1,6,hydrodynamic modeling,0.520740270614624
+1,7,large eddy simulations,0.5158628225326538
+1,8,flame dynamics,0.4975842833518982
+1,9,channel combustion,0.49585872888565063
+1,10,closed channel combustion,0.4911491870880127
+1,11,computational fluid dynamics,0.4883490800857544
+1,12,turbulent flows,0.4838448762893677
+1,13,planar flame dynamics,0.4808453917503357
+1,14,supersonic aerothermodynamics,0.4748225808143616
+1,15,high-speed turbulent flows,0.4740341901779175
+1,16,plasma-enhanced combustion,0.47207653522491455
+1,17,closed vessel combustion,0.4641575813293457
+1,18,turbulent,0.46411389112472534
+1,19,numerical simulations,0.4632638096809387
+1,20,flame propagation,0.46218162775039673
+2,1,machine learning applications,0.4497279226779938
+2,2,learning applications,0.44182640314102173
+2,3,deep learning applications,0.40311455726623535
+2,4,operator networks,0.38905757665634155
+2,5,cilia-driven,0.38835203647613525
+2,6,nonlinear systems,0.38143113255500793
+2,7,generative models,0.37801772356033325
+2,8,modeling,0.3761504292488098
+2,9,model-free reinforcement learning,0.3622938394546509
+2,10,q-learning,0.3601597547531128
+2,11,dynamics,0.35658490657806396
+2,12,nonlinear vibrations,0.3462146520614624
+2,13,variational methods,0.3423997163772583
+2,14,cilia-driven transport,0.3406098484992981
+2,15,machine learning,0.33833548426628113
+2,16,conditional generative adversarial networks,0.33652329444885254
+2,17,generative adversarial networks,0.32846924662590027
+2,18,locomotion,0.3231327533721924
+2,19,underwater locomotion,0.31915777921676636
+2,20,reinforcement learning,0.31798282265663147
+3,1,robotics,0.6112082004547119
+3,2,robotic automation,0.5898478627204895
+3,3,robotic,0.5584964752197266
+3,4,robotic health,0.5336923599243164
+3,5,multi-robot,0.5329587459564209
+3,6,autonomous manipulation,0.5201303958892822
+3,7,agricultural robotics,0.5156412124633789
+3,8,robots,0.5106678009033203
+3,9,legged robotics,0.5064018964767456
+3,10,multi-robot systems,0.5028855800628662
+3,11,planning and control,0.501334011554718
+3,12,microgravity robotics,0.4930645525455475
+3,13,human-robot collaboration,0.4748753309249878
+3,14,robotic health monitoring,0.47162124514579773
+3,15,quadruped robots,0.47022905945777893
+3,16,automation,0.45967820286750793
+3,17,human-robot,0.45696061849594116
+3,18,autonomy architecture,0.4519808292388916
+3,19,dynamic loco-manipulation,0.44586652517318726
+3,20,whole-body loco-manipulation,0.4452899098396301
+4,1,physics-based modeling,0.5045251846313477
+4,2,cardiovascular biomechanics,0.503841757774353
+4,3,multi-physics modeling,0.4625608026981354
+4,4,modeling,0.4453888535499573
+4,5,physics-informed neural networks,0.44187498092651367
+4,6,physics-based,0.4302384853363037
+4,7,for biofluids,0.42674940824508667
+4,8,cardiovascular assessment,0.41777503490448
+4,9,noninvasive cardiovascular assessment,0.41726696491241455
+4,10,hemodynamics,0.4157574474811554
+4,11,physics-informed neural,0.4129040837287903
+4,12,biomechanics,0.412273645401001
+4,13,cardiovascular imaging,0.4117514491081238
+4,14,vascular remodeling,0.39657050371170044
+4,15,arterial pressure waveforms,0.39396196603775024
+4,16,angiography data,0.3814866840839386
+4,17,physics-informed,0.38148587942123413
+4,18,angiography data analysis,0.378048300743103
+4,19,cardiovascular,0.36712539196014404
+4,20,multi-physics,0.3669295310974121
