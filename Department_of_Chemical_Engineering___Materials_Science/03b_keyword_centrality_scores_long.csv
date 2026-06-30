@@ -1,0 +1,416 @@
+cluster,rank,keyword,centrality_similarity,pi_df_in_cluster,cluster_size
+1,1,optoelectronic materials,0.4349778890609741,1,8
+1,2,light-emitting materials,0.4140937924385071,1,8
+1,3,thin film materials,0.3931232690811157,1,8
+1,4,nanoparticle quality control,0.3767104148864746,1,8
+1,5,thin film synthesis,0.3698224425315857,1,8
+1,6,emissive materials,0.3663714826107025,1,8
+1,7,coordination chemistry,0.36575016379356384,1,8
+1,8,material synthesis,0.36485013365745544,1,8
+1,9,organic light-emitting diodes,0.3533232808113098,1,8
+1,10,plasma polymerization,0.34846147894859314,1,8
+1,11,iii-v photovoltaics,0.3460458517074585,1,8
+1,12,vapor phase polymerization,0.3433308005332947,1,8
+1,13,chemical valorization,0.33809375762939453,1,8
+1,14,silicon carbide thin films,0.3376121520996094,1,8
+1,15,quantum dot-based photonics,0.33113807439804077,1,8
+1,16,polymer dendrites,0.32875773310661316,1,8
+1,17,surface functionalization,0.32852670550346375,1,8
+1,18,additive manufacturing,0.3275100588798523,2,8
+1,19,gold-based materials,0.3263850212097168,1,8
+1,20,ceramic materials,0.32038211822509766,1,8
+1,21,flexible substrates,0.3186523914337158,1,8
+1,22,photoredox catalysis,0.3163822293281555,1,8
+1,23,photoluminescence spectroscopy,0.31405481696128845,1,8
+1,24,quantum dots,0.3139514923095703,1,8
+1,25,cu complexes,0.3100510239601135,1,8
+1,26,metal-ligand descriptors,0.3081499934196472,1,8
+1,27,advanced deposition techniques,0.3061376214027405,1,8
+1,28,sustainable composites,0.3007448613643646,1,8
+1,29,machine learning in catalysis,0.3004660904407501,1,8
+1,30,thermally activated delayed fluorescence,0.29784512519836426,1,8
+1,31,conductive polymers,0.29667428135871887,1,8
+1,32,bond layer engineering,0.2961670756340027,1,8
+1,33,plasma-based modification,0.2950466275215149,1,8
+1,34,atomically dispersed catalysts,0.2897927463054657,1,8
+1,35,quantum optical circuits,0.27774718403816223,1,8
+1,36,catalytic surface dynamics,0.276909202337265,1,8
+1,37,biocatalytic reforming,0.27206963300704956,1,8
+1,38,silicone oil modification,0.26833575963974,1,8
+1,39,vitrimer composites,0.2670851945877075,1,8
+1,40,quantum dot arrays,0.2663111090660095,1,8
+1,41,composite recycling,0.26438117027282715,1,8
+1,42,chemical solvolysis,0.26378390192985535,1,8
+1,43,site-sensitivity in catalysis,0.2607463300228119,1,8
+1,44,surface modification,0.26008620858192444,1,8
+1,45,in situ pyrolysis,0.2592487931251526,1,8
+1,46,optical microresonators,0.2558687925338745,1,8
+1,47,heterometallic complexes,0.2548603415489197,1,8
+1,48,chalcogenide perovskites,0.25480663776397705,1,8
+1,49,multimetallic systems,0.25362375378608704,1,8
+1,50,single-photon emitters,0.25246870517730713,1,8
+1,51,phosphorescence,0.2514426112174988,1,8
+1,52,fluorescence,0.251420259475708,1,8
+1,53,electrolytic recycling,0.2511550784111023,1,8
+1,54,nonlinear imaging agents,0.2509564161300659,1,8
+1,55,magnetic nanoparticle characterization,0.24988120794296265,1,8
+1,56,multi-emitter systems,0.24856185913085938,1,8
+1,57,sintering techniques,0.24787646532058716,1,8
+1,58,fluorescence lifetime imaging,0.24781818687915802,1,8
+1,59,in situ processing,0.24708379805088043,1,8
+1,60,thermally stimulated delayed phosphorescence,0.24518106877803802,1,8
+1,61,plasma-enhanced cvd,0.2442837655544281,1,8
+1,62,quantum dot single-photon sources,0.24412322044372559,1,8
+1,63,hydrogel composites,0.2421279400587082,1,8
+1,64,bimetallic complexes,0.24182634055614471,1,8
+1,65,pvc dechlorination,0.24098733067512512,1,8
+1,66,quantum emitter arrays,0.24067184329032898,1,8
+1,67,heterogeneous catalysis modeling,0.24032117426395416,1,8
+1,68,mechanically tunable composites,0.2401370108127594,1,8
+1,69,microfluidic devices,0.23964229226112366,1,8
+1,70,vapor phase deposition,0.2389289140701294,1,8
+1,71,metallization,0.23845690488815308,1,8
+1,72,deposition methods,0.2346135675907135,1,8
+1,73,paper-based microfluidics,0.23348195850849152,1,8
+1,74,graphene microresonators,0.23059043288230896,1,8
+1,75,light emission,0.22985249757766724,1,8
+1,76,superparamagnetic iron oxide nanoparticles,0.22962534427642822,1,8
+1,77,surface planarization,0.22332164645195007,1,8
+1,78,exciplex photophysics,0.2226843535900116,1,8
+1,79,porous polymer dendrites,0.21852797269821167,1,8
+1,80,aerobic depolymerization,0.21703732013702393,1,8
+1,81,photonic integration,0.21652323007583618,1,8
+1,82,silylium ion reactions,0.21620842814445496,1,8
+1,83,excited-state properties,0.21117813885211945,1,8
+1,84,mechanical properties,0.20982061326503754,1,8
+1,85,aggregation-induced emission,0.20946748554706573,1,8
+1,86,solvent recovery,0.2092602252960205,1,8
+1,87,surface impurities,0.2074662148952484,1,8
+1,88,multimodal biological sensing,0.20330967009067535,1,8
+1,89,on-demand photon sources,0.201409712433815,1,8
+1,90,magnetically tunable hydrogels,0.2003890573978424,1,8
+1,91,coordination structures,0.19899794459342957,1,8
+1,92,structural design,0.19528484344482422,1,8
+1,93,co2 reduction mechanisms,0.19253960251808167,1,8
+1,94,quantum networks,0.1913236379623413,1,8
+1,95,cvd techniques,0.18881525099277496,1,8
+1,96,fluorophore-based sensing,0.18636247515678406,1,8
+1,97,therapeutic targets,0.18604297935962677,1,8
+1,98,rare earth phosphates,0.18557049334049225,1,8
+1,99,quantum information processing,0.18467490375041962,1,8
+1,100,3d tissue viability,0.18438616394996643,1,8
+1,101,imaging techniques,0.18170633912086487,1,8
+1,102,charge recombination,0.17409852147102356,1,8
+1,103,epitaxial growth,0.17085769772529602,1,8
+1,104,in situ characterization,0.1701555848121643,1,8
+1,105,thermal protection systems,0.16954272985458374,1,8
+1,106,welding,0.16707682609558105,1,8
+1,107,repair techniques,0.165111243724823,1,8
+1,108,depolymerization,0.1645626723766327,1,8
+1,109,catalytic subunit,0.1643143743276596,1,8
+1,110,scalable systems,0.1592743992805481,1,8
+1,111,protein modification,0.1533816158771515,1,8
+1,112,quantum ch activation,0.15036502480506897,1,8
+1,113,surface morphology,0.14950807392597198,1,8
+1,114,biological system manipulation,0.14925342798233032,1,8
+1,115,biofilm control,0.1490183025598526,1,8
+1,116,thermal resilience,0.14488697052001953,1,8
+1,117,polymorphic control,0.1431165188550949,1,8
+1,118,metabolic modeling,0.13910043239593506,1,8
+1,119,large-scale arrays,0.1389114111661911,1,8
+1,120,facet planarization,0.1370679885149002,1,8
+1,121,quantum communication,0.13107620179653168,1,8
+1,122,pp2ac,0.12904539704322815,1,8
+1,123,energy conversion,0.12782728672027588,1,8
+1,124,multidimensional tunneling corrections,0.12334193289279938,1,8
+1,125,matrix recovery,0.12051595747470856,1,8
+1,126,multi-omic analysis,0.11944916844367981,1,8
+1,127,shlp2 variants,0.11923211067914963,1,8
+1,128,thermal stability,0.11883315443992615,1,8
+1,129,energy transfer,0.11867650598287582,1,8
+1,130,rna processing,0.11806675046682358,1,8
+1,131,fiber recovery,0.11682961881160736,1,8
+1,132,spectrally uniform emitters,0.11290939897298813,1,8
+1,133,in situ techniques,0.11207738518714905,1,8
+1,134,protein signaling,0.11181902140378952,1,8
+1,135,synaptic function,0.10877659916877747,1,8
+1,136,matrix completion,0.10703416168689728,1,8
+1,137,spectral compliance,0.10200341045856476,1,8
+1,138,signaling disruption,0.1015486866235733,1,8
+1,139,methionine metabolism,0.09800519794225693,1,8
+1,140,linear scaling relationships,0.09450442343950272,1,8
+1,141,ghz mode-locked lasers,0.08194664120674133,1,8
+1,142,surface smoothing,0.07147297263145447,1,8
+1,143,strength limiting flaws,0.06945823132991791,1,8
+1,144,ordered arrays,0.06735188513994217,1,8
+1,145,tnik mutations,0.06697919964790344,1,8
+1,146,parkinson’s disease,0.06596865504980087,1,8
+1,147,spatially ordered structures,0.06586991250514984,1,8
+1,148,cancer cell proliferation,0.0654529333114624,1,8
+1,149,initiated cvd,0.060422591865062714,1,8
+1,150,neurodevelopmental disorders,0.059027478098869324,1,8
+1,151,ubiquitin ligases,0.052781734615564346,1,8
+1,152,colorectal cancer,0.04898989200592041,1,8
+1,153,correlated characterization,0.04626314714550972,1,8
+1,154,postsynaptic density,0.04087843745946884,1,8
+1,155,phase transformation,0.04018763452768326,1,8
+1,156,robotic layup,0.01814057119190693,1,8
+1,157,tensor approximation,0.0013741068542003632,1,8
+1,158,spalling,-0.005941438488662243,1,8
+1,159,pressure-induced transformation,-0.01987238973379135,1,8
+2,1,peptide engineering,0.5097845792770386,1,4
+2,2,peptide-liposome interactions,0.4810436964035034,1,4
+2,3,protein-membrane interactions,0.46773454546928406,1,4
+2,4,lipid nanoparticles,0.4520709216594696,1,4
+2,5,peptide design,0.4520377218723297,1,4
+2,6,peptide libraries,0.4397071301937103,1,4
+2,7,membrane remodeling,0.4316006302833557,1,4
+2,8,nanoplastic-biological interaction,0.42710569500923157,1,4
+2,9,membrane binding,0.42268529534339905,1,4
+2,10,functional peptides,0.41884440183639526,1,4
+2,11,amphiphilic peptides,0.41834741830825806,1,4
+2,12,protein-lipid interface,0.41552162170410156,1,4
+2,13,scalable membrane fabrication,0.41094082593917847,1,4
+2,14,cell-penetrating peptides,0.3991568088531494,1,4
+2,15,cell membrane interactions,0.39599543809890747,1,4
+2,16,metal-organic frameworks,0.3836731016635895,1,4
+2,17,photoactivable liposomes,0.3821592628955841,1,4
+2,18,intrinsically disordered proteins,0.38090449571609497,1,4
+2,19,amyloid inhibitors,0.37749478220939636,1,4
+2,20,nanoparticle composition,0.37639665603637695,1,4
+2,21,lipid bilayer permeabilization,0.3718060255050659,1,4
+2,22,proteinogenic peptides,0.3686496317386627,1,4
+2,23,graphene membranes,0.36577486991882324,1,4
+2,24,nanoplastic shape effects,0.3647734522819519,1,4
+2,25,aquaporin biomimetic membranes,0.36135852336883545,1,4
+2,26,peptide affinity,0.3561553359031677,1,4
+2,27,polyamide membranes,0.3474852442741394,1,4
+2,28,lipid vesicles,0.344661682844162,1,4
+2,29,nanoemulsion separations,0.3318322002887726,1,4
+2,30,membrane curvature,0.32389652729034424,1,4
+2,31,nanoparticle synthesis,0.32119452953338623,1,4
+2,32,catalytic nanoparticles,0.31645065546035767,1,4
+2,33,lipid packing defects,0.3049067258834839,1,4
+2,34,amyloid formation,0.3032260239124298,1,4
+2,35,molecular sieving,0.2974202334880829,1,4
+2,36,disease modelling,0.2970576882362366,1,4
+2,37,organic solvent purification,0.29576587677001953,1,4
+2,38,amyloid inhibition,0.294868141412735,1,4
+2,39,protein curvature sorting,0.29438191652297974,1,4
+2,40,bioelectronics,0.29152730107307434,1,4
+2,41,in vitro/in vivo,0.2891708016395569,1,4
+2,42,protofibril binding,0.2855265736579895,1,4
+2,43,machine learning in synthesis,0.2789885699748993,1,4
+2,44,membrane fission,0.27510374784469604,1,4
+2,45,computational modeling,0.26725080609321594,1,4
+2,46,α-synuclein,0.2672063410282135,1,4
+2,47,pd-l1 targeting,0.26709964871406555,1,4
+2,48,angstrom-scale pores,0.26556310057640076,1,4
+2,49,colloidal stability,0.263477623462677,1,4
+2,50,ionophore,0.2571229934692383,1,4
+2,51,specific binding sites,0.2428416758775711,1,4
+2,52,antibody-like,0.23797720670700073,1,4
+2,53,nanoplastic weathering,0.2368464171886444,1,4
+2,54,neurodegenerative diseases,0.2296682596206665,1,4
+2,55,intrinsic disorder,0.22831939160823822,1,4
+2,56,diffusional models,0.22179195284843445,1,4
+2,57,graphene quantum dots,0.20430538058280945,1,4
+2,58,high-throughput synthesis,0.202689528465271,1,4
+2,59,pore size tuning,0.2016511857509613,1,4
+2,60,ionic liquid-based synthesis,0.19704341888427734,1,4
+2,61,microfluidic fabrication,0.1959519386291504,1,4
+2,62,lipid peroxidation,0.18905752897262573,1,4
+2,63,bioelectric changes,0.17556318640708923,1,4
+2,64,selective ion separation,0.1699615716934204,1,4
+2,65,ion separation,0.15918947756290436,1,4
+2,66,mrna delivery,0.15804319083690643,1,4
+2,67,mrna display,0.1516329050064087,1,4
+2,68,curvature generation,0.14208200573921204,1,4
+2,69,magnetoelectric materials,0.12957355380058289,1,4
+2,70,functional disorder,0.11485978960990906,1,4
+2,71,composition-dependent,0.10952113568782806,1,4
+2,72,co2 hydrogenation catalysis,0.108866386115551,1,4
+2,73,roll-to-roll fabrication,0.10368677973747253,1,4
+2,74,hexagonal boron nitride,0.0983276516199112,1,4
+2,75,denoising models,0.06687195599079132,1,4
+2,76,crown ether,0.06682893633842468,1,4
+2,77,huntingtin,0.04860113933682442,1,4
+2,78,superwettability,0.039101943373680115,1,4
+2,79,pyridinic nitrogen,0.03802160173654556,1,4
+2,80,co2 capture,0.012510966509580612,1,4
+3,1,geologic co2 storage,0.5450242757797241,1,3
+3,2,co2 storage geomechanics,0.5376176834106445,1,3
+3,3,geothermal energy,0.5120729804039001,2,3
+3,4,ai in reservoir analysis,0.48511022329330444,1,3
+3,5,data-driven reservoir analysis,0.4655572175979614,1,3
+3,6,co2 injection wells,0.45296841859817505,1,3
+3,7,natural fractured reservoirs,0.44823867082595825,1,3
+3,8,unconventional reservoirs,0.4334524869918823,1,3
+3,9,geomechanical risks,0.43174096941947937,1,3
+3,10,deep learning for geosystems,0.42765432596206665,1,3
+3,11,oil & gas well integrity,0.4181678295135498,1,3
+3,12,geologic hydrogen production,0.4119001030921936,1,3
+3,13,groundwater hydrology,0.40521830320358276,1,3
+3,14,ai-driven risk assessment,0.4043121933937073,1,3
+3,15,geomechanical surrogate models,0.38789016008377075,1,3
+3,16,co2 storage integrity,0.3735620975494385,1,3
+3,17,data analytics in oil & gas,0.37014567852020264,1,3
+3,18,mineralogical analysis,0.3665693998336792,1,3
+3,19,co2 plume migration,0.3652287423610687,1,3
+3,20,flow-geomechanics,0.3591008186340332,1,3
+3,21,underground storage systems,0.3546268343925476,1,3
+3,22,co2 migration dynamics,0.3438072204589844,1,3
+3,23,hydrogen storage leakage,0.3289579153060913,1,3
+3,24,subsurface flow-geomechanics coupling,0.31978559494018555,1,3
+3,25,data-driven models,0.31503933668136597,1,3
+3,26,induced seismicity mitigation,0.3138461410999298,1,3
+3,27,deep learning,0.3094901442527771,1,3
+3,28,risk assessment,0.30485719442367554,1,3
+3,29,predictive analytics,0.2935362458229065,1,3
+3,30,caprock fracturing risks,0.2823355793952942,1,3
+3,31,petrophysical property analysis,0.27926701307296753,1,3
+3,32,reactive transport modeling,0.27268895506858826,1,3
+3,33,fracture propagation dynamics,0.27038437128067017,1,3
+3,34,neural networks,0.2668616771697998,1,3
+3,35,neural operator models,0.2621322572231293,1,3
+3,36,surrogate modeling,0.2512849271297455,1,3
+3,37,methane emission monitoring,0.25024041533470154,1,3
+3,38,serpentinization processes,0.24876941740512848,1,3
+3,39,radioactive waste storage,0.24501504004001617,1,3
+3,40,active learning,0.23755326867103577,1,3
+3,41,subsurface flow,0.23111025989055634,1,3
+3,42,well testing techniques,0.22941862046718597,1,3
+3,43,saline aquifer storage,0.22410854697227478,1,3
+3,44,generative adversarial networks,0.2153930366039276,1,3
+3,45,hydrogen production,0.20203617215156555,1,3
+3,46,physics-informed,0.19349749386310577,1,3
+3,47,fault detection,0.19299393892288208,1,3
+3,48,decarbonization strategies,0.19220639765262604,1,3
+3,49,scalar transport instability,0.17262588441371918,1,3
+3,50,fault reactivation mechanisms,0.17068961262702942,1,3
+3,51,spatio-temporal analysis,0.16885291039943695,1,3
+3,52,coupled simulation,0.1664089858531952,1,3
+3,53,porous media transport,0.1660776436328888,1,3
+3,54,well integrity management,0.15898999571800232,1,3
+3,55,idle well repurposing,0.1538936197757721,1,3
+3,56,digital decarbonization,0.13392385840415955,1,3
+3,57,parameterization,0.10478202998638153,1,3
+3,58,plug and abandonment,0.039280328899621964,1,3
+3,59,viscous fingering dynamics,-0.0039023682475090027,1,3
+4,1,ferroelectric materials,0.508613109588623,1,2
+4,2,electron-phonon coupling,0.4956727921962738,1,2
+4,3,electron ptychography,0.4939889907836914,1,2
+4,4,multiferroic thin films,0.49304601550102234,1,2
+4,5,electron microscopy techniques,0.4691908657550812,1,2
+4,6,moiré structures,0.4430987238883972,1,2
+4,7,phonon screening,0.4413471221923828,1,2
+4,8,nanomaterials,0.44064003229141235,1,2
+4,9,polymer crystals,0.43812131881713867,1,2
+4,10,crystallographic analysis,0.4327598810195923,1,2
+4,11,anisotropic materials,0.42243096232414246,1,2
+4,12,van der waals materials,0.4123059809207916,1,2
+4,13,photocurrent tunnelling microscopy,0.40894395112991333,1,2
+4,14,flexoelectricity,0.3981475830078125,1,2
+4,15,atomic-scale imaging,0.3777253031730652,1,2
+4,16,strain-tunable polaritons,0.35960495471954346,1,2
+4,17,wigner crystals,0.3571845293045044,1,2
+4,18,high-tc superconductivity,0.3469095826148987,1,2
+4,19,anisotropic screening,0.344900906085968,1,2
+4,20,hyperbolic exciton polaritons,0.33499929308891296,1,2
+4,21,two-gap superconductivity,0.3293725550174713,1,2
+4,22,superconductivity,0.32449212670326233,1,2
+4,23,spin textures,0.3179679811000824,1,2
+4,24,quantum many-body effects,0.31753790378570557,1,2
+4,25,optical anisotropy,0.3062809109687805,1,2
+4,26,structural characterization,0.3036104142665863,1,2
+4,27,flat-band excitations,0.3010624051094055,1,2
+4,28,excitons,0.29889369010925293,1,2
+4,29,oxide membranes,0.28915935754776,1,2
+4,30,collective charge excitations,0.2610720992088318,1,2
+4,31,polar domains,0.2573571801185608,1,2
+4,32,cuprate superconductors,0.2493598312139511,1,2
+4,33,correlated insulating states,0.2362862229347229,1,2
+4,34,chalcogenides,0.23537884652614594,1,2
+4,35,multimodal imaging,0.22891676425933838,1,2
+4,36,depth-resolved imaging,0.21388506889343262,1,2
+4,37,ab initio methods,0.15175634622573853,1,2
+4,38,hydrogen incorporation,0.11558994650840759,1,2
+4,39,vacancy analysis,0.11283276975154877,1,2
+4,40,gw calculations,0.03840292990207672,1,2
+5,1,nanotwin engineering,0.6580157279968262,2,2
+5,2,high-throughput nanotwin investigation,0.5317538976669312,1,2
+5,3,nanocrystalline alloys,0.5150352120399475,1,2
+5,4,ceramic nanomultilayers,0.4965064525604248,1,2
+5,5,tailored materials libraries,0.4820765256881714,1,2
+5,6,cuzr nanoglasses,0.4787091016769409,1,2
+5,7,nanostructured metal strengthening,0.43373915553092957,1,2
+5,8,metallic glass characterization,0.42697346210479736,1,2
+5,9,thermal stability of nanomaterials,0.4151972830295563,1,2
+5,10,bicontinuous nanoporous graphene,0.3884117603302002,1,2
+5,11,2d materials electronics stability,0.38061124086380005,1,2
+5,12,nanoindentation,0.37654879689216614,1,2
+5,13,glass-like thermal conductivity,0.3587295413017273,1,2
+5,14,thin film libraries,0.3523065149784088,1,2
+5,15,dynamic recovery in metals,0.33126771450042725,1,2
+5,16,composite material analysis,0.32242581248283386,1,2
+5,17,glass-glass interfaces,0.3121884763240814,1,2
+5,18,additive manufacturing,0.3087072968482971,1,2
+5,19,atomic simulations,0.29642847180366516,1,2
+5,20,colloid transport in nanoporous media,0.29610684514045715,1,2
+5,21,environmental corrosion drivers,0.27804267406463623,1,2
+5,22,single crystals,0.2678225040435791,1,2
+5,23,high-temperature creep,0.2621721625328064,1,2
+5,24,mechanical behavior,0.2570914626121521,1,2
+5,25,dielectric constant prediction,0.25386354327201843,1,2
+5,26,machine learning applications,0.2504649758338928,1,2
+5,27,magnetron sputtering,0.2213534414768219,1,2
+5,28,thermal stability,0.19910480082035065,1,2
+5,29,microstructural screening,0.1984553188085556,1,2
+5,30,combinatorial synthesis,0.17997543513774872,1,2
+5,31,high-pressure behavior,0.17522522807121277,1,2
+5,32,stacking fault energy prediction,0.15589451789855957,1,2
+5,33,x-ray diffraction,0.15414616465568542,1,2
+5,34,ruddlesden-popper chalcogenides,0.15291298925876617,1,2
+5,35,deformation mechanisms,0.15033094584941864,1,2
+5,36,co2/n2 separation,0.142343208193779,1,2
+5,37,phase formation,0.11955458670854568,1,2
+5,38,graph convolutional neural networks,0.09736072272062302,1,2
+5,39,aperiodic structures,0.04105483368039131,1,2
+6,1,hydrogen production,0.5031516551971436,1,2
+6,2,membrane reactors,0.5016337633132935,2,2
+6,3,fermentation reactors,0.4766082167625427,1,2
+6,4,waste co2 utilization,0.465639591217041,1,2
+6,5,high-pressure reactors,0.46213746070861816,1,2
+6,6,electrochemical optimization,0.4516984224319458,1,2
+6,7,hydrogen supply chains,0.44787222146987915,1,2
+6,8,co2 mineralization,0.43716681003570557,1,2
+6,9,catalytic systems,0.4243692457675934,1,2
+6,10,co2 capture,0.4123929738998413,2,2
+6,11,3d cfd modeling,0.36309289932250977,1,2
+6,12,metal-organic frameworks,0.3440966010093689,1,2
+6,13,adsorption processes,0.3385220766067505,1,2
+6,14,ai optimization,0.3226538300514221,1,2
+6,15,green hydrogen,0.3212338089942932,1,2
+6,16,coke formation,0.29080432653427124,1,2
+6,17,cryogenic separation,0.289603590965271,1,2
+6,18,sustainable recovery,0.28853708505630493,1,2
+6,19,membrane separation,0.2784741222858429,1,2
+6,20,techno-economic analysis,0.2741812467575073,1,2
+6,21,machine learning,0.2730002701282501,1,2
+6,22,membrane modules,0.26956555247306824,1,2
+6,23,bayesian optimization,0.2683873772621155,1,2
+6,24,gas transport,0.26007992029190063,1,2
+6,25,process intensification,0.2574406564235687,1,2
+6,26,plasma polymerization,0.245289146900177,1,2
+6,27,methanol synthesis,0.24107025563716888,1,2
+6,28,vacuum swing adsorption,0.22177979350090027,1,2
+6,29,multi-tubular membranes,0.21999168395996094,1,2
+6,30,reinforcement learning,0.21996979415416718,1,2
+6,31,polygeneration,0.20192605257034302,1,2
+6,32,battery degradation,0.19755324721336365,1,2
+6,33,ionic liquids,0.19307011365890503,1,2
+6,34,direct air capture,0.173700749874115,1,2
+6,35,silicon carbide,0.15722015500068665,1,2
+6,36,pecvd,0.025326712056994438,1,2
+6,37,rotating packed bed,0.022196751087903976,1,2
+6,38,digital twin,-0.02328522875905037,1,2
